@@ -195,7 +195,7 @@ http://192.168.100.1:4022/rtp/239.81.0.188:4056"
 http://192.168.100.1:4022/rtp/239.81.0.189:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",高清影视/容县新闻
 http://192.168.100.1:4022/rtp/239.81.0.194:4056"
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京纪实科教·高清
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="卫视",北京纪实科教·高清
 http://192.168.100.1:4022/rtp/239.81.0.195:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",高清影视/三江新闻
 http://192.168.100.1:4022/rtp/239.81.0.197:4056"
