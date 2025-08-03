@@ -109,11 +109,11 @@ http://192.168.100.1:4022/rtp/239.81.1.79:4056"
 http://192.168.100.1:4022/rtp/239.81.1.81:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",动漫秀场·高清
 http://192.168.100.1:4022/rtp/239.81.1.82:4056"
-#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云·高清
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="地方",游戏风云·高清
 http://192.168.100.1:4022/rtp/239.81.1.83:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",魅力足球·高清
 http://192.168.100.1:4022/rtp/239.81.1.84:4056"
-#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚·高清
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="地方",生活时尚·高清
 http://192.168.100.1:4022/rtp/239.81.1.85:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",乐游·高清
 http://192.168.100.1:4022/rtp/239.81.1.87:4056"
@@ -215,7 +215,7 @@ http://192.168.100.1:4022/rtp/239.81.0.216:4056"
 http://192.168.100.1:4022/rtp/239.81.0.217:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",崇左综合·高清
 http://192.168.100.1:4022/rtp/239.81.0.218:4056"
-#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="上海",中国交通·高清
+#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="地方",中国交通·高清
 http://192.168.100.1:4022/rtp/239.81.0.219:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",桂林科教旅游·高清
 http://192.168.100.1:4022/rtp/239.81.0.221:4056"
