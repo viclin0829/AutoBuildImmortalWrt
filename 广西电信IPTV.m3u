@@ -43,7 +43,7 @@ http://192.168.100.1:7088/rtp/239.81.0.196:4056"
 http://192.168.100.1:7088/rtp/239.81.0.107:4056"
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
 http://192.168.100.1:7088/rtp/239.81.1.21:4056"
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视
 http://192.168.100.1:7088/rtp/239.81.1.22:4056"
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 http://192.168.100.1:7088/rtp/239.81.1.23:4056"
@@ -107,131 +107,129 @@ http://192.168.100.1:7088/rtp/239.81.1.66:4056"
 http://192.168.100.1:7088/rtp/239.81.1.79:4056"
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实
 http://192.168.100.1:7088/rtp/239.81.1.81:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",动漫秀场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动漫秀场
 http://192.168.100.1:7088/rtp/239.81.1.82:4056"
-#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="地方",游戏风云
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云
 http://192.168.100.1:7088/rtp/239.81.1.83:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",魅力足球
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",魅力足球
 http://192.168.100.1:7088/rtp/239.81.1.84:4056"
-#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="地方",生活时尚
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚
 http://192.168.100.1:7088/rtp/239.81.1.85:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",乐游
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",乐游
 http://192.168.100.1:7088/rtp/239.81.1.87:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",法治天地
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",法治天地
 http://192.168.100.1:7088/rtp/239.81.1.88:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",金色学堂
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",金色学堂
 http://192.168.100.1:7088/rtp/239.81.1.89:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",都市剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",都市剧场
 http://192.168.100.1:7088/rtp/239.81.1.90:4056"
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓
 http://192.168.100.1:7088/rtp/239.81.1.91:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",东方财经
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东方财经
 http://192.168.100.1:7088/rtp/239.81.1.93:4056"
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方",茶频道
 http://192.168.100.1:7088/rtp/239.81.1.95:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",中国天气
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中国天气
 http://192.168.100.1:7088/rtp/239.81.1.100:4056"
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
-http://192.168.100.1:7088/rtp/239.81.0.225:4056"
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视4K
 http://192.168.100.1:7088/rtp/239.81.0.226:4056"
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视4K
 http://192.168.100.1:7088/rtp/239.81.0.252:4056"
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视4K
 http://192.168.100.1:7088/rtp/239.81.0.254:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",影视/藤县新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",影视/藤县新闻
 http://192.168.100.1:7088/rtp/239.81.0.1:4056"
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实
 http://192.168.100.1:7088/rtp/239.81.0.91:4056"
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",CETV1
 http://192.168.100.1:7088/rtp/239.81.0.92:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",华数影视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",华数影视
 http://192.168.100.1:7088/rtp/239.81.0.100:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",爱上4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱上4K
 http://192.168.100.1:7088/rtp/239.81.0.123:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广西视听商城
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广西视听商城
 http://192.168.100.1:7088/rtp/239.81.0.124:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南宁文旅生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南宁文旅生活
 http://192.168.100.1:7088/rtp/239.81.0.139:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南宁影视娱乐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南宁影视娱乐
 http://192.168.100.1:7088/rtp/239.81.0.140:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南宁公共
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南宁公共
 http://192.168.100.1:7088/rtp/239.81.0.141:4056"
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
 http://192.168.100.1:7088/rtp/239.81.0.148:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",百色综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百色综合
 http://192.168.100.1:7088/rtp/239.81.0.150:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",防城港新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",防城港新闻综合
 http://192.168.100.1:7088/rtp/239.81.0.151:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",精彩影视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",精彩影视
 http://192.168.100.1:7088/rtp/239.81.0.152:4056"
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="地方",求索纪录
 http://192.168.100.1:7088/rtp/239.81.0.153:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",北海新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",北海新闻综合
 http://192.168.100.1:7088/rtp/239.81.0.154:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",贺州综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",贺州综合
 http://192.168.100.1:7088/rtp/239.81.0.163:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",钦州综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",钦州综合
 http://192.168.100.1:7088/rtp/239.81.0.164:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",BesTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BesTV
 http://192.168.100.1:7088/rtp/239.81.0.166:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",河池新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",河池新闻综合
 http://192.168.100.1:7088/rtp/239.81.0.168:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",贵港新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",贵港新闻综合
 http://192.168.100.1:7088/rtp/239.81.0.172:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",来宾综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",来宾综合
 http://192.168.100.1:7088/rtp/239.81.0.173:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",桂林新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",桂林新闻综合
 http://192.168.100.1:7088/rtp/239.81.0.174:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",柳州新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",柳州新闻综合
 http://192.168.100.1:7088/rtp/239.81.0.175:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",梧州新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",梧州新闻综合
 http://192.168.100.1:7088/rtp/239.81.0.176:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",玉林新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",玉林新闻综合
 http://192.168.100.1:7088/rtp/239.81.0.177:4056"
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",CETV4
 http://192.168.100.1:7088/rtp/239.81.0.188:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",影视/灵山新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",影视/灵山新闻
 http://192.168.100.1:7088/rtp/239.81.0.189:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",影视/容县新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",影视/容县新闻
 http://192.168.100.1:7088/rtp/239.81.0.194:4056"
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="卫视",北京纪实科教
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京纪实科教
 http://192.168.100.1:7088/rtp/239.81.0.195:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",影视/三江新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",影视/三江新闻
 http://192.168.100.1:7088/rtp/239.81.0.197:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",电子竞技
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",电子竞技
 http://192.168.100.1:7088/rtp/239.81.0.201:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",电子竞技
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",电子竞技
 http://192.168.100.1:7088/rtp/239.81.0.202:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",电子竞技
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",电子竞技
 http://192.168.100.1:7088/rtp/239.81.0.203:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广西IPTV宣传片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广西IPTV宣传片
 http://192.168.100.1:7088/rtp/239.81.0.208:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广西综艺旅游
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广西综艺旅游
 http://192.168.100.1:7088/rtp/239.81.0.214:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广西移动
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广西移动
 http://192.168.100.1:7088/rtp/239.81.0.216:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",影视/扶绥新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",影视/扶绥新闻
 http://192.168.100.1:7088/rtp/239.81.0.217:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",崇左综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",崇左综合
 http://192.168.100.1:7088/rtp/239.81.0.218:4056"
-#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="地方",中国交通
+#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="上海",中国交通
 http://192.168.100.1:7088/rtp/239.81.0.219:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",桂林科教旅游
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",桂林科教旅游
 http://192.168.100.1:7088/rtp/239.81.0.221:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",桂林公共频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",桂林公共频道
 http://192.168.100.1:7088/rtp/239.81.0.222:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",家有购物
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",家有购物
 http://192.168.100.1:7088/rtp/239.81.0.224:4056"
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院
 http://192.168.100.1:7088/rtp/239.81.0.238:4056"
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影
 http://192.168.100.1:7088/rtp/239.81.0.239:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",CHC影迷电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CHC影迷电影
 http://192.168.100.1:7088/rtp/239.81.0.240:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南宁新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南宁新闻综合
 http://192.168.100.1:7088/rtp/239.81.0.241:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广西都市
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广西都市
 http://192.168.100.1:7088/rtp/239.81.0.247:4056"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广西新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广西新闻
 http://192.168.100.1:7088/rtp/239.81.0.248:4056"
