@@ -27,6 +27,8 @@ http://192.168.100.1:4022/udp/239.81.0.254:4056
 http://192.168.100.1:4022/udp/239.81.0.225:4056
 #EXTINF:-1 tvg-id="北京卫视4K-25帧" tvg-name="北京卫视4K-25帧" tvg-logo="https://live.lizanyang.top/tv/北京卫视4K.png" group-title="4K",北京卫视4K-25帧
 http://192.168.100.1:4022/udp/239.81.0.226:4056
+#EXTINF:-1 tvg-id="华数4K影视" tvg-name="华数4K影视" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/%E5%8D%8E%E6%95%B0.jpg?raw=true" group-title="4K",华数4K影视
+http://192.168.100.1:4022/udp/239.81.0.123:4056
 
 #============= 央视HD =============
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.lizanyang.top/tv/CCTV1.png" group-title="央视",CCTV1综合
@@ -247,5 +249,5 @@ http://192.168.100.1:4022/udp/239.81.0.79:4056
 http://192.168.100.1:4022/udp/239.81.0.205:4056
 #EXTINF:-1 tvg-id="IPTV轮播" tvg-name="IPTV轮播" tvg-logo="https://live.lizanyang.top/tv/IPTV轮播.png" group-title="轮播",IPTV轮播
 http://192.168.100.1:4022/udp/239.81.0.251:4056
-#EXTINF:-1 tvg-id="4K测试频道" tvg-name="4K测试频道" tvg-logo="https://live.lizanyang.top/tv/4K测试频道.png" group-title="测试",4K测试频道
-http://192.168.100.1:4022/udp/239.81.0.123:4056
+
+
