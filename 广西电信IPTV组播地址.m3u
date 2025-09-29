@@ -15,7 +15,7 @@ rtp://239.81.0.78:4056
 rtp://239.81.0.80:4056
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.lizanyang.top/tv/CCTV4K.png" group-title="4K",CCTV4K
 rtp://239.81.0.196:4056
-#EXTINF:-1 tvg-id="CCTV16-4K" tvg-name="CCTV16-4K" tvg-logo="https://live.lizanyang.top/tv/CCTV16-4K.png" group-title="4K",CCTV16-4K
+#EXTINF:-1 tvg-id="CCTV16-4K" tvg-name="CCTV16-4K" tvg-logo="https://epg.v1.mk/logo/CCTV16-4K.png" group-title="4K",CCTV16-4K
 rtp://239.81.0.144:4056
 #EXTINF:-1 tvg-id="欢笑剧场4K" tvg-name="欢笑剧场4K" tvg-logo="https://live.lizanyang.top/tv/欢笑剧场4K.png" group-title="4K",欢笑剧场4K
 rtp://239.81.1.92:4056
@@ -145,7 +145,7 @@ rtp://239.81.0.92:4056
 rtp://239.81.1.63:4056
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.lizanyang.top/tv/金鹰卡通.png" group-title="少儿",金鹰卡通
 rtp://239.81.0.148:4056
-#EXTINF:-1 tvg-id="KAKU少儿" tvg-name="KAKU少儿" tvg-logo="https://live.lizanyang.top/tv/KAKU少儿.png" group-title="少儿",KAKU少儿
+#EXTINF:-1 tvg-id="KAKU少儿" tvg-name="KAKU少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="少儿",KAKU少儿
 rtp://239.81.1.64:4056
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://live.lizanyang.top/tv/哈哈炫动.png" group-title="少儿",哈哈炫动
 rtp://239.81.1.66:4056
@@ -157,7 +157,7 @@ rtp://239.81.1.85:4056
 rtp://239.81.1.90:4056
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.lizanyang.top/tv/快乐垂钓.png" group-title="生活",快乐垂钓
 rtp://239.81.1.91:4056
-#EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://live.lizanyang.top/tv/茶频道.png" group-title="生活",茶频道
+#EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://epg.v1.mk/logo/茶.png" group-title="生活",茶频道
 rtp://239.81.1.95:4056
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://live.lizanyang.top/tv/东方财经.png" group-title="财经",东方财经
 rtp://239.81.1.93:4056
@@ -187,9 +187,9 @@ rtp://239.81.0.141:4056
 rtp://239.81.0.139:4056
 #EXTINF:-1 tvg-id="桂林新闻综合" tvg-name="桂林新闻综合" tvg-logo="https://epg.112114.xyz/logo/桂林新闻综合.png" group-title="广西",桂林新闻综合
 rtp://239.81.0.174:4056
-#EXTINF:-1 tvg-id="桂林科教旅游" tvg-name="桂林科教旅游" tvg-logo="https://epg.112114.xyz/logo/桂林科教旅游.png" group-title="广西",桂林科教旅游
+#EXTINF:-1 tvg-id="桂林科教旅游" tvg-name="桂林科教旅游" tvg-logo="https://xiaotan.860775.xyz/广西桂林科教旅游.png" group-title="广西",桂林科教旅游
 rtp://239.81.0.221:4056
-#EXTINF:-1 tvg-id="桂林公共" tvg-name="桂林公共" tvg-logo="https://epg.112114.xyz/logo/桂林公共.png" group-title="广西",桂林公共频道
+#EXTINF:-1 tvg-id="桂林公共" tvg-name="桂林公共" tvg-logo="https://xiaotan.860775.xyz/广西桂林公共频道.png" group-title="广西",桂林公共频道
 rtp://239.81.0.222:4056
 #EXTINF:-1 tvg-id="柳州新闻综合" tvg-name="柳州新闻综合" tvg-logo="https://epg.112114.xyz/logo/柳州新闻综合.png" group-title="广西",柳州新闻综合
 rtp://239.81.0.175:4056
@@ -249,3 +249,4 @@ rtp://239.81.0.205:4056
 rtp://239.81.0.251:4056
 #EXTINF:-1 tvg-id="4K测试频道" tvg-name="4K测试频道" tvg-logo="https://live.lizanyang.top/tv/4K测试频道.png" group-title="测试",4K测试频道
 rtp://239.81.0.123:4056
+
