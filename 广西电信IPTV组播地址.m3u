@@ -1,519 +1,243 @@
-#EXTM3U
+#EXTM3U url-tvg="https://epg.51zmt.top:8000/e.xml.gz"
 
-#EXTINF:-1 tvg-id="广西IPTV101" tvg-name="广西IPTV101" tvg-logo="" group-title="广西",广西IPTV101
-rtp://239.81.0.1:4056
-
-#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="" group-title="4K",湖南卫视4K
+#========== 4K ==========
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/hunan_tv_4k.png" group-title="4K",湖南卫视4K
 rtp://239.81.0.72:4056
-
-#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" tvg-logo="" group-title="4K",江苏卫视4K
+#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/jiangsu_tv_4k.png" group-title="4K",江苏卫视4K
 rtp://239.81.0.73:4056
-
-#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="" group-title="4K",浙江卫视4K
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/zhejiang_tv_4k.png" group-title="4K",浙江卫视4K
 rtp://239.81.0.75:4056
-
-#EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视4K" tvg-logo="" group-title="4K",东方卫视4K
+#EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视4K" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/dongfang_tv_4k.png" group-title="4K",东方卫视4K
 rtp://239.81.0.76:4056
-
-#EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视4K" tvg-logo="" group-title="4K",山东卫视4K
+#EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视4K" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/shandong_tv_4k.png" group-title="4K",山东卫视4K
 rtp://239.81.0.78:4056
-
-#EXTINF:-1 tvg-id="IPTV轮播" tvg-name="IPTV轮播" tvg-logo="" group-title="轮播",IPTV轮播
-rtp://239.81.0.79:4056
-
-#EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视4K" tvg-logo="" group-title="4K",四川卫视4K
+#EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视4K" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/sichuan_tv_4k.png" group-title="4K",四川卫视4K
 rtp://239.81.0.80:4056
-
-#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="" group-title="卫视",西藏卫视-1920*1080-H264-MP2
-rtp://239.81.0.90:4056
-
-#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="" group-title="纪录片",金鹰纪实[1920*1080]
-rtp://239.81.0.91:4056
-
-#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="" group-title="教育",CETV1[1920*1080]
-rtp://239.81.0.92:4056
-
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="" group-title="卫视",河北卫视DD5.1[1920*1080]
-rtp://239.81.0.94:4056
-
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="" group-title="卫视",贵州卫视[1920*1080]
-rtp://239.81.0.95:4056
-
-#EXTINF:-1 tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="" group-title="央视",CCTV4中文国际DD5.1[1920*1080]
-rtp://239.81.0.96:4056
-
-#EXTINF:-1 tvg-id="广西IPTV10" tvg-name="广西IPTV10" tvg-logo="" group-title="广西",广西IPTV10[1920*1080]
-rtp://239.81.0.100:4056
-
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="" group-title="央视",CCTV5+[1920*1080]
-rtp://239.81.0.101:4056
-
-#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="" group-title="央视",CCTV1综合-DD5.1[1920*1080]
-rtp://239.81.0.102:4056
-
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="" group-title="卫视",广东卫视DD5.1[1920*1080]
-rtp://239.81.0.104:4056
-
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="" group-title="卫视",深圳卫视[1920*1080]
-rtp://239.81.0.103:4056
-
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="" group-title="卫视",黑龙江卫视[1920*1080]
-rtp://239.81.0.105:4056
-
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="" group-title="卫视",江苏卫视DD5.1[1920*1080]
-rtp://239.81.0.106:4056
-
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="" group-title="广西",广西卫视AC3-512[1920*1080]
-rtp://239.81.0.107:4056
-
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="" group-title="卫视",湖南卫视DD5.1[1920*1080]
-rtp://239.81.0.110:4056
-
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="" group-title="卫视",北京卫视DD5.1[1920*1080]
-rtp://239.81.0.109:4056
-
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="" group-title="卫视",东方卫视[1920*1080]
-rtp://239.81.0.111:4056
-
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="" group-title="卫视",浙江卫视DD5.1[1920*1080]
-rtp://239.81.0.108:4056
-
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="" group-title="卫视",湖北卫视[1920*1080]
-rtp://239.81.0.112:4056
-
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="" group-title="卫视",天津卫视[1920*1080]
-rtp://239.81.0.113:4056
-
-#EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="" group-title="央视",CCTV2财经DD5.1[1920*1080]
-rtp://239.81.0.115:4056
-
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="" group-title="卫视",山东卫视[1920*1080]
-rtp://239.81.0.114:4056
-
-#EXTINF:-1 tvg-id="CCTV7国防军事" tvg-name="CCTV7国防军事" tvg-logo="" group-title="央视",CCTV7国防军事DD5.1[1920*1080]
-rtp://239.81.0.116:4056
-
-#EXTINF:-1 tvg-id="CCTV9纪录" tvg-name="CCTV9纪录" tvg-logo="" group-title="央视",CCTV9纪录DD5.1[1920*1080]
-rtp://239.81.0.117:4056
-
-#EXTINF:-1 tvg-id="CCTV10科教" tvg-name="CCTV10科教" tvg-logo="" group-title="央视",CCTV10科教DD5.1[1920*1080]
-rtp://239.81.0.118:4056
-
-#EXTINF:-1 tvg-id="CCTV12社会与法" tvg-name="CCTV12社会与法" tvg-logo="" group-title="央视",CCTV12社会与法DD5.1[1920*1080]
-rtp://239.81.0.119:4056
-
-#EXTINF:-1 tvg-id="CCTV14少儿" tvg-name="CCTV14少儿" tvg-logo="" group-title="央视",CCTV14少儿DD5.1[1920*1080]
-rtp://239.81.0.120:4056
-
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="" group-title="卫视",新疆卫视-1920*1080-H264-MP2
-rtp://239.81.0.122:4056
-
-#EXTINF:-1 tvg-id="4K测试频道" tvg-name="4K测试频道" tvg-logo="" group-title="4K",4K测试频道
-rtp://239.81.0.123:4056
-
-#EXTINF:-1 tvg-id="广西IPTV12" tvg-name="广西IPTV12" tvg-logo="" group-title="广西",广西IPTV12
-rtp://239.81.0.124:4056
-
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="" group-title="卫视",四川卫视DD5.1-384K[1920*1080]
-rtp://239.81.0.130:4056
-
-#EXTINF:-1 tvg-id="南宁文旅生活" tvg-name="南宁文旅生活" tvg-logo="" group-title="广西",南宁文旅生活[1920*1080]
-rtp://239.81.0.139:4056
-
-#EXTINF:-1 tvg-id="南宁影视娱乐" tvg-name="南宁影视娱乐" tvg-logo="" group-title="广西",南宁影视娱乐[1920*1080]
-rtp://239.81.0.140:4056
-
-#EXTINF:-1 tvg-id="南宁公共" tvg-name="南宁公共" tvg-logo="" group-title="广西",南宁公共[1920*1080]
-rtp://239.81.0.141:4056
-
-#EXTINF:-1 tvg-id="CCTV16奥林匹克" tvg-name="CCTV16奥林匹克" tvg-logo="" group-title="央视",CCTV16奥林匹克[1920*1080]
-rtp://239.81.0.142:4056
-
-#EXTINF:-1 tvg-id="CCTV16-4K" tvg-name="CCTV16-4K" tvg-logo="" group-title="4K",CCTV16-4K-HEVC-AAC-50帧[3840*2160]
-rtp://239.81.0.144:4056
-
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="" group-title="卫视",吉林卫视AC3[1920*1080]
-rtp://239.81.0.143:4056
-
-#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="" group-title="卡通",金鹰卡通DD5.1[1920*1080]
-rtp://239.81.0.148:4056
-
-#EXTINF:-1 tvg-id="百色综合" tvg-name="百色综合" tvg-logo="" group-title="广西",百色综合[1920*1080]
-rtp://239.81.0.150:4056
-
-#EXTINF:-1 tvg-id="防城港新闻综合" tvg-name="防城港新闻综合" tvg-logo="" group-title="广西",防城港新闻综合[1920*1080]
-rtp://239.81.0.151:4056
-
-#EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="" group-title="影视",精彩|影视[1920*1080]
-rtp://239.81.0.152:4056
-
-#EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="" group-title="纪录片",求索|纪录[1920*1080]
-rtp://239.81.0.153:4056
-
-#EXTINF:-1 tvg-id="北海新闻综合" tvg-name="北海新闻综合" tvg-logo="" group-title="广西",北海新闻综合[1920*1080]
-rtp://239.81.0.154:4056
-
-#EXTINF:-1 tvg-id="钦州综合" tvg-name="钦州综合" tvg-logo="" group-title="广西",钦州综合[1920*1080]
-rtp://239.81.0.164:4056
-
-#EXTINF:-1 tvg-id="广西IPTV11" tvg-name="广西IPTV11" tvg-logo="" group-title="广西",广西IPTV11
-rtp://239.81.0.166:4056
-
-#EXTINF:-1 tvg-id="河池新闻综合" tvg-name="河池新闻综合" tvg-logo="" group-title="广西",河池新闻综合[1920*1080]
-rtp://239.81.0.168:4056
-
-#EXTINF:-1 tvg-id="贵港新闻综合" tvg-name="贵港新闻综合" tvg-logo="" group-title="广西",贵港新闻综合[1920*1080]
-rtp://239.81.0.172:4056
-
-#EXTINF:-1 tvg-id="来宾综合" tvg-name="来宾综合" tvg-logo="" group-title="广西",来宾综合[1920*1080]
-rtp://239.81.0.173:4056
-
-#EXTINF:-1 tvg-id="桂林新闻综合" tvg-name="桂林新闻综合" tvg-logo="" group-title="广西",桂林新闻综合[1920*1080]
-rtp://239.81.0.174:4056
-
-#EXTINF:-1 tvg-id="贺州综合" tvg-name="贺州综合" tvg-logo="" group-title="广西",贺州综合[1920*1080]
-rtp://239.81.0.163:4056
-
-#EXTINF:-1 tvg-id="柳州新闻综合" tvg-name="柳州新闻综合" tvg-logo="" group-title="广西",柳州新闻综合[1920*1080]
-rtp://239.81.0.175:4056
-
-#EXTINF:-1 tvg-id="玉林新闻综合" tvg-name="玉林新闻综合" tvg-logo="" group-title="广西",玉林新闻综合[1920*1080]
-rtp://239.81.0.177:4056
-
-#EXTINF:-1 tvg-id="梧州新闻综合" tvg-name="梧州新闻综合" tvg-logo="" group-title="广西",梧州新闻综合[1920*1080]
-rtp://239.81.0.176:4056
-
-#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="" group-title="教育",CETV-4-AC3[1920*1080]
-rtp://239.81.0.188:4056
-
-#EXTINF:-1 tvg-id="广西IPTV100" tvg-name="广西IPTV100" tvg-logo="" group-title="广西",广西IPTV100[1920*1080]
-rtp://239.81.0.189:4056
-
-#EXTINF:-1 tvg-id="BRTV纪实科教" tvg-name="BRTV纪实科教" tvg-logo="" group-title="北京",BRTV|纪实科教-DD5.1[1920*1080]
-rtp://239.81.0.195:4056
-
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="" group-title="4K",CCTV4K-40M-HDR-HEVC-原50帧-DD5.1[3840*2160]
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/cctv4k.png" group-title="4K",CCTV4K
 rtp://239.81.0.196:4056
-
-#EXTINF:-1 tvg-id="广西IPTV102" tvg-name="广西IPTV102" tvg-logo="" group-title="广西",广西IPTV102[1920*1080]
-rtp://239.81.0.194:4056
-
-#EXTINF:-1 tvg-id="少儿动画" tvg-name="少儿动画" tvg-logo="" group-title="少儿",少儿动画
-rtp://239.81.0.197:4056
-
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="" group-title="卫视",海南卫视-H264-AC3[1920*1080]
-rtp://239.81.0.199:4056
-
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="" group-title="卫视",宁夏卫视-1920*1080-H264-MP2
-rtp://239.81.0.200:4056
-
-#EXTINF:-1 tvg-id="广西IPTV1" tvg-name="广西IPTV1" tvg-logo="" group-title="广西",广西IPTV1[1920*1080]
-rtp://239.81.0.201:4056
-
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="" group-title="卫视",江西卫视AC3[1920*1080]
-rtp://239.81.0.204:4056
-
-#EXTINF:-1 tvg-id="广西IPTV2" tvg-name="广西IPTV2" tvg-logo="" group-title="广西",广西IPTV2[1920*1080]
-rtp://239.81.0.202:4056
-
-#EXTINF:-1 tvg-id="广西IPTV3" tvg-name="广西IPTV3" tvg-logo="" group-title="广西",广西IPTV3[1920*1080]
-rtp://239.81.0.203:4056
-
-#EXTINF:-1 tvg-id="CCTV13新闻" tvg-name="CCTV13新闻" tvg-logo="" group-title="央视",CCTV13新闻DD5.1[1920*1080]
-rtp://239.81.0.206:4056
-
-#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="" group-title="卫视",甘肃卫视[1920*1080]
-rtp://239.81.0.207:4056
-
-#EXTINF:-1 tvg-id="IPTV轮播" tvg-name="IPTV轮播" tvg-logo="" group-title="轮播",IPTV轮播
-rtp://239.81.0.205:4056
-
-#EXTINF:-1 tvg-id="广西IPTV8" tvg-name="广西IPTV8" tvg-logo="" group-title="广西",广西IPTV8[1920*1080]
-rtp://239.81.0.208:4056
-
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="" group-title="卫视",辽宁卫视AC3[1920*1080]
-rtp://239.81.0.210:4056
-
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="" group-title="卫视",安徽卫视AC3[1920*1080]
-rtp://239.81.0.211:4056
-
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="" group-title="卫视",东南卫视[1920*1080]
-rtp://239.81.0.215:4056
-
-#EXTINF:-1 tvg-id="广西综艺旅游" tvg-name="广西综艺旅游" tvg-logo="" group-title="广西",广西综艺旅游[1920*1080]
-rtp://239.81.0.214:4056
-
-#EXTINF:-1 tvg-id="广西移动电视高清" tvg-name="广西移动电视高清" tvg-logo="" group-title="广西",广西移动电视高清[1920*1080]
-rtp://239.81.0.216:4056
-
-#EXTINF:-1 tvg-id="少儿动画" tvg-name="少儿动画" tvg-logo="" group-title="少儿",少儿动画
-rtp://239.81.0.217:4056
-
-#EXTINF:-1 tvg-id="崇左综合" tvg-name="崇左综合" tvg-logo="" group-title="广西",崇左综合[1920*1080]
-rtp://239.81.0.218:4056
-
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="" group-title="卫视",河南卫视-H264-MP2[1920*1080]
-rtp://239.81.0.220:4056
-
-#EXTINF:-1 tvg-id="桂林科教旅游" tvg-name="桂林科教旅游" tvg-logo="" group-title="广西",桂林科教旅游[1920*1080]
-rtp://239.81.0.221:4056
-
-#EXTINF:-1 tvg-id="桂林公共频道" tvg-name="桂林公共频道" tvg-logo="" group-title="广西",桂林公共频道[1920*1080]
-rtp://239.81.0.222:4056
-
-#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="" group-title="兵团",兵团卫视-1920*1080-H264-MP2
-rtp://239.81.0.223:4056
-
-#EXTINF:-1 tvg-id="北京卫视4K-HDR-50帧" tvg-name="北京卫视4K-HDR-50帧" tvg-logo="" group-title="4K",北京卫视4K-HDR-50帧
-rtp://239.81.0.225:4056
-
-#EXTINF:-1 tvg-id="北京卫视4K-HDR-25帧" tvg-name="北京卫视4K-HDR-25帧" tvg-logo="" group-title="4K",北京卫视4K-HDR-25帧
-rtp://239.81.0.226:4056
-
-#EXTINF:-1 tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" tvg-logo="" group-title="央视",CCTV17农业农村DD5.1[1920*1080]
-rtp://239.81.0.228:4056
-
-#EXTINF:-1 tvg-id="CCTV11戏曲" tvg-name="CCTV11戏曲" tvg-logo="" group-title="央视",CCTV11戏曲DD5.1[1920*1080]
-rtp://239.81.0.229:4056
-
-#EXTINF:-1 tvg-id="CCTV15音乐" tvg-name="CCTV15音乐" tvg-logo="" group-title="央视",CCTV15音乐DD5.1[1920*1080]
-rtp://239.81.0.230:4056
-
-#EXTINF:-1 tvg-id="CCTV5体育" tvg-name="CCTV5体育" tvg-logo="" group-title="央视",CCTV5体育AC3[1920*1080]
-rtp://239.81.0.232:4056
-
-#EXTINF:-1 tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="" group-title="央视",CCTV3综艺AC3[1920*1080]
-rtp://239.81.0.231:4056
-
-#EXTINF:-1 tvg-id="CCTV6电影" tvg-name="CCTV6电影" tvg-logo="" group-title="央视",CCTV6电影AC3[1920*1080]
-rtp://239.81.0.233:4056
-
-#EXTINF:-1 tvg-id="CCTV8电视剧" tvg-name="CCTV8电视剧" tvg-logo="" group-title="央视",CCTV8电视剧AC3[1920*1080]
-rtp://239.81.0.234:4056
-
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="" group-title="电影",CHC家庭影院
-rtp://239.81.0.238:4056
-
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="" group-title="电影",CHC动作电影
-rtp://239.81.0.239:4056
-
-#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="" group-title="电影",CHC高清电影
-rtp://239.81.0.240:4056
-
-#EXTINF:-1 tvg-id="南宁新闻综合" tvg-name="南宁新闻综合" tvg-logo="" group-title="广西",南宁新闻综合[1920*1080]
-rtp://239.81.0.241:4056
-
-#EXTINF:-1 tvg-id="广西都市" tvg-name="广西都市" tvg-logo="" group-title="广西",广西都市[1920*1080]
-rtp://239.81.0.247:4056
-
-#EXTINF:-1 tvg-id="广西新闻" tvg-name="广西新闻" tvg-logo="" group-title="广西",广西新闻[1920*1080]
-rtp://239.81.0.248:4056
-
-#EXTINF:-1 tvg-id="广西影视" tvg-name="广西影视" tvg-logo="" group-title="广西",广西影视[1920*1080]
-rtp://239.81.0.250:4056
-
-#EXTINF:-1 tvg-id="IPTV轮播" tvg-name="IPTV轮播" tvg-logo="" group-title="轮播",IPTV轮播
-rtp://239.81.0.251:4056
-
-#EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视4K" tvg-logo="" group-title="4K",广东卫视4K-HDR-25帧-ACC2.0
-rtp://239.81.0.252:4056
-
-#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="" group-title="4K",深圳卫视4K-HDR-25帧-ACC2.0
-rtp://239.81.0.254:4056
-
-#EXTINF:-1 tvg-id="广西IPTV7" tvg-name="广西IPTV7" tvg-logo="" group-title="广西",广西IPTV7[1920*1080]
-rtp://239.81.0.253:4056
-#EXTINF:-1 tvg-id="CCTV1HEVC" tvg-name="CCTV1-HEVC" group-title="央视HEVC",CCTV1-HEVC-AAC
-rtp://239.81.1.2:4056
-
-#EXTINF:-1 tvg-id="CCTV2HEVC" tvg-name="CCTV2-HEVC" group-title="央视HEVC",CCTV2-HEVC-AAC
-rtp://239.81.1.3:4056
-
-#EXTINF:-1 tvg-id="CCTV3HEVC" tvg-name="CCTV3-HEVC" group-title="央视HEVC",CCTV3-HEVC-AAC
-rtp://239.81.1.4:4056
-
-#EXTINF:-1 tvg-id="CCTV4HEVC" tvg-name="CCTV4-HEVC" group-title="央视HEVC",CCTV4-HEVC-AAC
-rtp://239.81.1.5:4056
-
-#EXTINF:-1 tvg-id="CCTV5HEVC" tvg-name="CCTV5-HEVC" group-title="央视HEVC",CCTV5-HEVC-AAC
-rtp://239.81.1.6:4056
-
-#EXTINF:-1 tvg-id="CCTV6HEVC" tvg-name="CCTV6-HEVC" group-title="央视HEVC",CCTV6-HEVC-AAC
-rtp://239.81.1.7:4056
-
-#EXTINF:-1 tvg-id="CCTV7HEVC" tvg-name="CCTV7-HEVC" group-title="央视HEVC",CCTV7-HEVC-AAC
-rtp://239.81.1.8:4056
-
-#EXTINF:-1 tvg-id="CCTV8HEVC" tvg-name="CCTV8-HEVC" group-title="央视HEVC",CCTV8-HEVC-AAC
-rtp://239.81.1.9:4056
-
-#EXTINF:-1 tvg-id="CCTV9HEVC" tvg-name="CCTV9-HEVC" group-title="央视HEVC",CCTV9-HEVC-AAC
-rtp://239.81.1.10:4056
-
-#EXTINF:-1 tvg-id="CCTV10HEVC" tvg-name="CCTV10-HEVC" group-title="央视HEVC",CCTV10-HEVC-AAC
-rtp://239.81.1.11:4056
-
-#EXTINF:-1 tvg-id="CCTV11HEVC" tvg-name="CCTV11-HEVC" group-title="央视HEVC",CCTV11-HEVC-AAC
-rtp://239.81.1.12:4056
-
-#EXTINF:-1 tvg-id="CCTV12HEVC" tvg-name="CCTV12-HEVC" group-title="央视HEVC",CCTV12-HEVC-AAC
-rtp://239.81.1.13:4056
-
-#EXTINF:-1 tvg-id="CCTV13HEVC" tvg-name="CCTV13-HEVC" group-title="央视HEVC",CCTV13-HEVC-AAC
-rtp://239.81.1.14:4056
-
-#EXTINF:-1 tvg-id="CCTV14HEVC" tvg-name="CCTV14-HEVC" group-title="央视HEVC",CCTV14-HEVC-AAC
-rtp://239.81.1.15:4056
-
-#EXTINF:-1 tvg-id="CCTV15HEVC" tvg-name="CCTV15-HEVC" group-title="央视HEVC",CCTV15-HEVC-AAC
-rtp://239.81.1.16:4056
-
-#EXTINF:-1 tvg-id="CCTV16HD" tvg-name="CCTV16-HD" group-title="央视",CCTV16-H264
-rtp://239.81.1.17:4056
-
-#EXTINF:-1 tvg-id="CCTV5+HEVC" tvg-name="CCTV5+-HEVC" group-title="央视HEVC",CCTV5+-HEVC-AAC
-rtp://239.81.1.18:4056
-
-#EXTINF:-1 tvg-id="CCTV17HEVC" tvg-name="CCTV17-HEVC" group-title="央视HEVC",CCTV17-HEVC-AAC
-rtp://239.81.1.19:4056
-
-#EXTINF:-1 tvg-id="广东卫视HEVC" tvg-name="广东卫视-HEVC" group-title="卫视HEVC",广东卫视-HEVC-AAC
-rtp://239.81.1.21:4056
-
-#EXTINF:-1 tvg-id="湖南卫视HEVC" tvg-name="湖南卫视-HEVC" group-title="卫视HEVC",湖南卫视-HEVC-AAC
-rtp://239.81.1.22:4056
-
-#EXTINF:-1 tvg-id="东方卫视HEVC" tvg-name="东方卫视-HEVC" group-title="卫视HEVC",东方卫视-HEVC-AAC
-rtp://239.81.1.23:4056
-
-#EXTINF:-1 tvg-id="北京卫视HEVC" tvg-name="北京卫视-HEVC" group-title="卫视HEVC",北京卫视-HEVC-AAC
-rtp://239.81.1.24:4056
-
-#EXTINF:-1 tvg-id="浙江卫视HEVC" tvg-name="浙江卫视-HEVC" group-title="卫视HEVC",浙江卫视-HEVC-AAC
-rtp://239.81.1.25:4056
-
-#EXTINF:-1 tvg-id="江苏卫视HEVC" tvg-name="江苏卫视-HEVC" group-title="卫视HEVC",江苏卫视-HEVC-AAC
-rtp://239.81.1.26:4056
-
-#EXTINF:-1 tvg-id="深圳卫视HEVC" tvg-name="深圳卫视-HEVC" group-title="卫视HEVC",深圳卫视-HEVC-AAC
-rtp://239.81.1.27:4056
-
-#EXTINF:-1 tvg-id="天津卫视HEVC" tvg-name="天津卫视-HEVC" group-title="卫视HEVC",天津卫视-HEVC-AAC
-rtp://239.81.1.28:4056
-
-#EXTINF:-1 tvg-id="湖北卫视HEVC" tvg-name="湖北卫视-HEVC" group-title="卫视HEVC",湖北卫视-HEVC-AAC
-rtp://239.81.1.29:4056
-
-#EXTINF:-1 tvg-id="山东卫视HEVC" tvg-name="山东卫视-HEVC" group-title="卫视HEVC",山东卫视-HEVC-AAC
-rtp://239.81.1.30:4056
-
-#EXTINF:-1 tvg-id="黑龙江卫视HEVC" tvg-name="黑龙江卫视-HEVC" group-title="卫视HEVC",黑龙江卫视-HEVC-AAC
-rtp://239.81.1.31:4056
-
-#EXTINF:-1 tvg-id="河北卫视HEVC" tvg-name="河北卫视-HEVC" group-title="卫视HEVC",河北卫视-HEVC-AAC
-rtp://239.81.1.32:4056
-
-#EXTINF:-1 tvg-id="贵州卫视HEVC" tvg-name="贵州卫视-HEVC" group-title="卫视HEVC",贵州卫视-HEVC-AAC
-rtp://239.81.1.33:4056
-
-#EXTINF:-1 tvg-id="东南卫视HEVC" tvg-name="东南卫视-HEVC" group-title="卫视HEVC",东南卫视-HEVC-AAC
-rtp://239.81.1.34:4056
-
-#EXTINF:-1 tvg-id="辽宁卫视HEVC" tvg-name="辽宁卫视-HEVC" group-title="卫视HEVC",辽宁卫视-HEVC-AAC
-rtp://239.81.1.35:4056
-
-#EXTINF:-1 tvg-id="安徽卫视HEVC" tvg-name="安徽卫视-HEVC" group-title="卫视HEVC",安徽卫视-HEVC-AAC
-rtp://239.81.1.36:4056
-
-#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="卫视",甘肃卫视-H264-MP2
-rtp://239.81.1.37:4056
-
-#EXTINF:-1 tvg-id="江西卫视HEVC" tvg-name="江西卫视-HEVC" group-title="卫视HEVC",江西卫视-HEVC-AAC
-rtp://239.81.1.38:4056
-
-#EXTINF:-1 tvg-id="四川卫视HEVC" tvg-name="四川卫视-HEVC" group-title="卫视HEVC",四川卫视-HEVC-AAC
-rtp://239.81.1.39:4056
-
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视",河南卫视-H264-AAC
-rtp://239.81.1.41:4056
-
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视",云南卫视-H264-AAC
-rtp://239.81.1.42:4056
-
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视",重庆卫视-H264-AAC
-rtp://239.81.1.44:4056
-
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视",海南卫视-H264-AAC
-rtp://239.81.1.45:4056
-
-#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视",山西卫视-AAC
-rtp://239.81.1.46:4056
-
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视",青海卫视-AAC
-rtp://239.81.1.47:4056
-
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视",吉林卫视-H264-AAC
-rtp://239.81.1.50:4056
-
-#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" group-title="教育",CETV-1-H264-AAC
-rtp://239.81.1.60:4056
-
-#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" group-title="教育",CETV-4
-rtp://239.81.1.63:4056
-
-#EXTINF:-1 tvg-id="KAKU少儿" tvg-name="KAKU少儿" group-title="少儿",KAKU少儿-AAC
-rtp://239.81.1.64:4056
-
-#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" group-title="少儿",金鹰卡通-AAC
-rtp://239.81.1.65:4056
-
-#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" group-title="少儿",哈哈炫动-AAC
-rtp://239.81.1.66:4056
-
-#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" group-title="卫视",三沙卫视
-rtp://239.81.1.79:4056
-
-#EXTINF:-1 tvg-id="CCTV16-4K" tvg-name="CCTV16-4K" group-title="4K",CCTV16-4K-HEVC-AAC
+#EXTINF:-1 tvg-id="CCTV16-4K" tvg-name="CCTV16-4K" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/cctv16_4k.png" group-title="4K",CCTV16-4K
 rtp://239.81.1.80:4056
-
-#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" group-title="纪录片",金鹰纪实-h264-mp2
-rtp://239.81.1.81:4056
-
-#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" group-title="少儿",动漫秀场
-rtp://239.81.1.82:4056
-
-#EXTINF:-1 tvg-id="爱游戏" tvg-name="爱游戏" group-title="电竞",爱游戏
-rtp://239.81.1.83:4056
-
-#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" group-title="生活",生活时尚
-rtp://239.81.1.85:4056
-
-#EXTINF:-1 tvg-id="欢笑剧场4K高清" tvg-name="欢笑剧场4K高清" group-title="4K",欢笑剧场4K高清
-rtp://239.81.1.86:4056
-
-#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" group-title="旅游",乐游
-rtp://239.81.1.87:4056
-
-#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" group-title="法制",法治天地
-rtp://239.81.1.88:4056
-
-#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" group-title="教育",金色学堂
-rtp://239.81.1.89:4056
-
-#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" group-title="剧集",都市剧场
-rtp://239.81.1.90:4056
-
-#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" group-title="生活",快乐垂钓
-rtp://239.81.1.91:4056
-
-#EXTINF:-1 tvg-id="欢笑剧场4K" tvg-name="欢笑剧场4K" group-title="4K",欢笑剧场4K
+#EXTINF:-1 tvg-id="欢笑剧场4K" tvg-name="欢笑剧场4K" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/huanxiao_4k.png" group-title="4K",欢笑剧场4K
 rtp://239.81.1.92:4056
 
-#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" group-title="财经",东方财经
-rtp://239.81.1.93:4056
+#========== 央视HD ==========
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/cctv1.png" group-title="央视",CCTV1综合
+rtp://239.81.0.102:4056
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/cctv2.png" group-title="央视",CCTV2财经
+rtp://239.81.0.115:4056
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/cctv3.png" group-title="央视",CCTV3综艺
+rtp://239.81.0.231:4056
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/cctv4.png" group-title="央视",CCTV4中文国际
+rtp://239.81.0.96:4056
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/cctv5.png" group-title="央视",CCTV5体育
+rtp://239.81.0.232:4056
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/cctv5plus.png" group-title="央视",CCTV5+
+rtp://239.81.0.101:4056
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/cctv6.png" group-title="央视",CCTV6电影
+rtp://239.81.0.233:4056
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/cctv7.png" group-title="央视",CCTV7国防军事
+rtp://239.81.0.116:4056
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/cctv8.png" group-title="央视",CCTV8电视剧
+rtp://239.81.0.234:4056
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/cctv9.png" group-title="央视",CCTV9纪录
+rtp://239.81.0.117:4056
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/cctv10.png" group-title="央视",CCTV10科教
+rtp://239.81.0.118:4056
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/cctv11.png" group-title="央视",CCTV11戏曲
+rtp://239.81.0.229:4056
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/cctv12.png" group-title="央视",CCTV12社会与法
+rtp://239.81.0.119:4056
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/cctv13.png" group-title="央视",CCTV13新闻
+rtp://239.81.0.206:4056
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/cctv14.png" group-title="央视",CCTV14少儿
+rtp://239.81.0.120:4056
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/cctv15.png" group-title="央视",CCTV15音乐
+rtp://239.81.0.230:4056
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/cctv16.png" group-title="央视",CCTV16奥林匹克
+rtp://239.81.0.142:4056
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/cctv17.png" group-title="央视",CCTV17农业农村
+rtp://239.81.0.228:4056
 
-#EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" group-title="生活",茶频道
+#========== 卫视HD ==========
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/hunan_tv.png" group-title="卫视",湖南卫视
+rtp://239.81.0.110:4056
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/zhejiang_tv.png" group-title="卫视",浙江卫视
+rtp://239.81.0.108:4056
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/dongfang_tv.png" group-title="卫视",东方卫视
+rtp://239.81.0.111:4056
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/beijing_tv.png" group-title="卫视",北京卫视
+rtp://239.81.0.109:4056
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/guangdong_tv.png" group-title="卫视",广东卫视
+rtp://239.81.0.104:4056
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/shenzhen_tv.png" group-title="卫视",深圳卫视
+rtp://239.81.0.103:4056
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/jiangsu_tv.png" group-title="卫视",江苏卫视
+rtp://239.81.0.106:4056
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/shandong_tv.png" group-title="卫视",山东卫视
+rtp://239.81.0.114:4056
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/tianjin_tv.png" group-title="卫视",天津卫视
+rtp://239.81.0.113:4056
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/hubei_tv.png" group-title="卫视",湖北卫视
+rtp://239.81.0.112:4056
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/hebei_tv.png" group-title="卫视",河北卫视
+rtp://239.81.0.94:4056
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/heilongjiang_tv.png" group-title="卫视",黑龙江卫视
+rtp://239.81.0.105:4056
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/guangxi_tv.png" group-title="卫视",广西卫视
+rtp://239.81.0.107:4056
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/jilin_tv.png" group-title="卫视",吉林卫视
+rtp://239.81.0.143:4056
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/sichuan_tv.png" group-title="卫视",四川卫视
+rtp://239.81.0.130:4056
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/guizhou_tv.png" group-title="卫视",贵州卫视
+rtp://239.81.0.95:4056
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/yunnan_tv.png" group-title="卫视",云南卫视
+rtp://239.81.1.42:4056
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/henan_tv.png" group-title="卫视",河南卫视
+rtp://239.81.0.220:4056
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/chongqing_tv.png" group-title="卫视",重庆卫视
+rtp://239.81.1.44:4056
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/jiangxi_tv.png" group-title="卫视",江西卫视
+rtp://239.81.0.204:4056
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/anhui_tv.png" group-title="卫视",安徽卫视
+rtp://239.81.0.211:4056
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/liaoning_tv.png" group-title="卫视",辽宁卫视
+rtp://239.81.0.210:4056
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/gansu_tv.png" group-title="卫视",甘肃卫视
+rtp://239.81.0.207:4056
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/hainan_tv.png" group-title="卫视",海南卫视
+rtp://239.81.0.199:4056
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/ningxia_tv.png" group-title="卫视",宁夏卫视
+rtp://239.81.0.200:4056
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/qinghai_tv.png" group-title="卫视",青海卫视
+rtp://239.81.1.47:4056
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/shanxi_tv.png" group-title="卫视",山西卫视
+rtp://239.81.1.46:4056
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/tibet_tv.png" group-title="卫视",西藏卫视
+rtp://239.81.0.90:4056
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/xinjiang_tv.png" group-title="卫视",新疆卫视
+rtp://239.81.0.122:4056
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/bingtuan_tv.png" group-title="兵团",兵团卫视
+rtp://239.81.0.223:4056
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/sansha_tv.png" group-title="卫视",三沙卫视
+rtp://239.81.1.79:4056
+
+#========== 数字付费 / 特色 ==========
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/chc_family.png" group-title="电影",CHC家庭影院
+rtp://239.81.0.238:4056
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/chc_action.png" group-title="电影",CHC动作电影
+rtp://239.81.0.239:4056
+#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/chc_hd.png" group-title="电影",CHC高清电影
+rtp://239.81.0.240:4056
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/jinying_documentary.png" group-title="纪录片",金鹰纪实
+rtp://239.81.0.91:4056
+#EXTINF:-1 tvg-id=" CETV1" tvg-name="CETV1" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/cetv1.png" group-title="教育",CETV1
+rtp://239.81.0.92:4056
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/cetv4.png" group-title="教育",CETV4
+rtp://239.81.1.63:4056
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/jinying_kids.png" group-title="少儿",金鹰卡通
+rtp://239.81.0.148:4056
+#EXTINF:-1 tvg-id="KAKU少儿" tvg-name="KAKU少儿" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/kaku.png" group-title="少儿",KAKU少儿
+rtp://239.81.1.64:4056
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/haha_xuandong.png" group-title="少儿",哈哈炫动
+rtp://239.81.1.66:4056
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/dongman_xiuchang.png" group-title="少儿",动漫秀场
+rtp://239.81.1.82:4056
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/life_style.png" group-title="生活",生活时尚
+rtp://239.81.1.85:4056
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/urban_theater.png" group-title="剧集",都市剧场
+rtp://239.81.1.90:4056
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/happy_fishing.png" group-title="生活",快乐垂钓
+rtp://239.81.1.91:4056
+#EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/tea_channel.png" group-title="生活",茶频道
 rtp://239.81.1.95:4056
-
-#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" group-title="气象",中国天气
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/oriental_finance.png" group-title="财经",东方财经
+rtp://239.81.1.93:4056
+#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/golden_classroom.png" group-title="教育",金色学堂
+rtp://239.81.1.89:4056
+#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/china_weather.png" group-title="气象",中国天气
 rtp://239.81.1.100:4056
+
+#========== 广西本地 ==========
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/guangxi_tv.png" group-title="广西",广西卫视
+rtp://239.81.0.107:4056
+#EXTINF:-1 tvg-id="广西都市" tvg-name="广西都市" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/guangxi_dushi.png" group-title="广西",广西都市
+rtp://239.81.0.247:4056
+#EXTINF:-1 tvg-id="广西影视" tvg-name="广西影视" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/guangxi_yingshi.png" group-title="广西",广西影视
+rtp://239.81.0.250:4056
+#EXTINF:-1 tvg-id="广西新闻" tvg-name="广西新闻" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/guangxi_news.png" group-title="广西",广西新闻
+rtp://239.81.0.248:4056
+#EXTINF:-1 tvg-id="广西综艺旅游" tvg-name="广西综艺旅游" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/guangxi_travel.png" group-title="广西",广西综艺旅游
+rtp://239.81.0.214:4056
+#EXTINF:-1 tvg-id="南宁新闻综合" tvg-name="南宁新闻综合" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/nanning_news.png" group-title="广西",南宁新闻综合
+rtp://239.81.0.241:4056
+#EXTINF:-1 tvg-id="南宁影视娱乐" tvg-name="南宁影视娱乐" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/nanning_yingshi.png" group-title="广西",南宁影视娱乐
+rtp://239.81.0.140:4056
+#EXTINF:-1 tvg-id="南宁公共" tvg-name="南宁公共" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/nanning_public.png" group-title="广西",南宁公共
+rtp://239.81.0.141:4056
+#EXTINF:-1 tvg-id="南宁文旅生活" tvg-name="南宁文旅生活" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/nanning_wenlv.png" group-title="广西",南宁文旅生活
+rtp://239.81.0.139:4056
+#EXTINF:-1 tvg-id="桂林新闻综合" tvg-name="桂林新闻综合" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/guilin_news.png" group-title="广西",桂林新闻综合
+rtp://239.81.0.174:4056
+#EXTINF:-1 tvg-id="桂林科教旅游" tvg-name="桂林科教旅游" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/guilin_keke.png" group-title="广西",桂林科教旅游
+rtp://239.81.0.221:4056
+#EXTINF:-1 tvg-id="桂林公共" tvg-name="桂林公共" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/guilin_public.png" group-title="广西",桂林公共频道
+rtp://239.81.0.222:4056
+#EXTINF:-1 tvg-id="柳州新闻综合" tvg-name="柳州新闻综合" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/liuzhou_news.png" group-title="广西",柳州新闻综合
+rtp://239.81.0.175:4056
+#EXTINF:-1 tvg-id="玉林新闻综合" tvg-name="玉林新闻综合" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/yulin_news.png" group-title="广西",玉林新闻综合
+rtp://239.81.0.177:4056
+#EXTINF:-1 tvg-id="百色综合" tvg-name="百色综合" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/baise_news.png" group-title="广西",百色综合
+rtp://239.81.0.150:4056
+#EXTINF:-1 tvg-id="河池新闻综合" tvg-name="河池新闻综合" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/hechi_news.png" group-title="广西",河池新闻综合
+rtp://239.81.0.168:4056
+#EXTINF:-1 tvg-id="钦州综合" tvg-name="钦州综合" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/qinzhou_news.png" group-title="广西",钦州综合
+rtp://239.81.0.164:4056
+#EXTINF:-1 tvg-id="北海新闻综合" tvg-name="北海新闻综合" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/beihai_news.png" group-title="广西",北海新闻综合
+rtp://239.81.0.154:4056
+#EXTINF:-1 tvg-id="防城港新闻综合" tvg-name="防城港新闻综合" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/fangchenggang_news.png" group-title="广西",防城港新闻综合
+rtp://239.81.0.151:4056
+#EXTINF:-1 tvg-id="贵港新闻综合" tvg-name="贵港新闻综合" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/laibin_news.png" group-title="广西",贵港新闻综合
+rtp://239.81.0.172:4056
+#EXTINF:-1 tvg-id="来宾综合" tvg-name="来宾综合" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/laibin_news.png" group-title="广西",来宾综合
+rtp://239.81.0.173:4056
+#EXTINF:-1 tvg-id="梧州新闻综合" tvg-name="梧州新闻综合" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/wuzhou_news.png" group-title="广西",梧州新闻综合
+rtp://239.81.0.176:4056
+#EXTINF:-1 tvg-id="崇左综合" tvg-name="崇左综合" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/chongzuo_news.png" group-title="广西",崇左综合
+rtp://239.81.0.218:4056
+#EXTINF:-1 tvg-id="贺州综合" tvg-name="贺州综合" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/hezhou_news.png" group-title="广西",贺州综合
+rtp://239.81.0.163:4056
+#EXTINF:-1 tvg-id="广西移动电视高清" tvg-name="广西移动电视高清" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/gx_mobile.png" group-title="广西",广西移动电视高清
+rtp://239.81.0.216:4056
+#EXTINF:-1 tvg-id="广西IPTV1" tvg-name="广西IPTV1" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/gx_iptv1.png" group-title="广西",广西IPTV1
+rtp://239.81.0.201:4056
+#EXTINF:-1 tvg-id="广西IPTV2" tvg-name="广西IPTV2" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/gx_iptv2.png" group-title="广西",广西IPTV2
+rtp://239.81.0.202:4056
+#EXTINF:-1 tvg-id="广西IPTV3" tvg-name="广西IPTV3" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/gx_iptv3.png" group-title="广西",广西IPTV3
+rtp://239.81.0.203:4056
+#EXTINF:-1 tvg-id="广西IPTV7" tvg-name="广西IPTV7" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/gx_iptv7.png" group-title="广西",广西IPTV7
+rtp://239.81.0.253:4056
+#EXTINF:-1 tvg-id="广西IPTV8" tvg-name="广西IPTV8" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/gx_iptv8.png" group-title="广西",广西IPTV8
+rtp://239.81.0.208:4056
+#EXTINF:-1 tvg-id="广西IPTV10" tvg-name="广西IPTV10" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/gx_iptv10.png" group-title="广西",广西IPTV10
+rtp://239.81.0.100:4056
+#EXTINF:-1 tvg-id="广西IPTV11" tvg-name="广西IPTV11" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/gx_iptv11.png" group-title="广西",广西IPTV11
+rtp://239.81.0.166:4056
+#EXTINF:-1 tvg-id="广西IPTV12" tvg-name="广西IPTV12" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/gx_iptv12.png" group-title="广西",广西IPTV12
+rtp://239.81.0.124:4056
+#EXTINF:-1 tvg-id="广西IPTV100" tvg-name="广西IPTV100" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/gx_iptv100.png" group-title="广西",广西IPTV100
+rtp://239.81.0.189:4056
+#EXTINF:-1 tvg-id="广西IPTV101" tvg-name="广西IPTV101" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/gx_iptv101.png" group-title="广西",广西IPTV101
+rtp://239.81.0.1:4056
+#EXTINF:-1 tvg-id="广西IPTV102" tvg-name="广西IPTV102" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/gx_iptv102.png" group-title="广西",广西IPTV102
+rtp://239.81.0.194:4056
+
+#========== 轮播 / 测试 ==========
+#EXTINF:-1 tvg-id="IPTV轮播" tvg-name="IPTV轮播" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/iptv_loop.png" group-title="轮播",IPTV轮播
+rtp://239.81.0.79:4056
+#EXTINF:-1 tvg-id="IPTV轮播" tvg-name="IPTV轮播" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/iptv_loop.png" group-title="轮播",IPTV轮播
+rtp://239.81.0.205:4056
+#EXTINF:-1 tvg-id="IPTV轮播" tvg-name="IPTV轮播" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/iptv_loop.png" group-title="轮播",IPTV轮播
+rtp://239.81.0.251:4056
+#EXTINF:-1 tvg-id="4K测试频道" tvg-name="4K测试频道" tvg-logo="https://cdn.jsdelivr.net/gh/EPG-Solutions/Logos@main/4k_test.png" group-title="测试",4K测试频道
+rtp://239.81.0.123:4056
