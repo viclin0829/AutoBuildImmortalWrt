@@ -1,239 +1,117 @@
-#EXTM3U
-#EXTINF:-1,#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="https://live.lizanyang.top/tv/湖南卫视4K.png" group-title="4K"
-湖南卫视4K
-#EXTINF:-1,#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" tvg-logo="https://live.lizanyang.top/tv/江苏卫视4K.png" group-title="4K"
-江苏卫视4K
-#EXTINF:-1,#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="https://live.lizanyang.top/tv/浙江卫视4K.png" group-title="4K"
-浙江卫视4K
-#EXTINF:-1,#EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视4K" tvg-logo="https://live.lizanyang.top/tv/东方卫视4K.png" group-title="4K"
-东方卫视4K
-#EXTINF:-1,#EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视4K" tvg-logo="https://live.lizanyang.top/tv/山东卫视4K.png" group-title="4K"
-山东卫视4K
-#EXTINF:-1,#EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视4K" tvg-logo="https://live.lizanyang.top/tv/四川卫视4K.png" group-title="4K"
-四川卫视4K
-#EXTINF:-1,#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.lizanyang.top/tv/CCTV4K.png" group-title="4K"
-CCTV4K
-#EXTINF:-1,#EXTINF:-1 tvg-id="CCTV16-4K" tvg-name="CCTV16-4K" tvg-logo="https://epg.v1.mk/logo/CCTV16-4K.png" group-title="4K"
-CCTV16-4K
-#EXTINF:-1,#EXTINF:-1 tvg-id="欢笑剧场4K" tvg-name="欢笑剧场4K" tvg-logo="https://live.lizanyang.top/tv/欢笑剧场4K.png" group-title="4K"
-欢笑剧场4K
-#EXTINF:-1,#EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视4K" tvg-logo="https://live.lizanyang.top/tv/广东卫视4K.png" group-title="4K"
-广东卫视4K
-#EXTINF:-1,#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="https://live.lizanyang.top/tv/深圳卫视4K.png" group-title="4K"
-深圳卫视4K
-#EXTINF:-1,#EXTINF:-1 tvg-id="北京卫视4K-50帧" tvg-name="北京卫视4K-50帧" tvg-logo="https://live.lizanyang.top/tv/北京卫视4K.png" group-title="4K"
-北京卫视4K-50帧
-#EXTINF:-1,#EXTINF:-1 tvg-id="北京卫视4K-25帧" tvg-name="北京卫视4K-25帧" tvg-logo="https://live.lizanyang.top/tv/北京卫视4K.png" group-title="4K"
-北京卫视4K-25帧
-#EXTINF:-1,#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.lizanyang.top/tv/CCTV1.png" group-title="央视"
-CCTV1综合
-#EXTINF:-1,#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.lizanyang.top/tv/CCTV2.png" group-title="央视"
-CCTV2财经
-#EXTINF:-1,#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.lizanyang.top/tv/CCTV3.png" group-title="央视"
-CCTV3综艺
-#EXTINF:-1,#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.lizanyang.top/tv/CCTV4.png" group-title="央视"
-CCTV4中文国际
-#EXTINF:-1,#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.lizanyang.top/tv/CCTV5.png" group-title="央视"
-CCTV5体育
-#EXTINF:-1,#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.lizanyang.top/tv/CCTV5+.png" group-title="央视"
-CCTV5+
-#EXTINF:-1,#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.lizanyang.top/tv/CCTV6.png" group-title="央视"
-CCTV6电影
-#EXTINF:-1,#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.lizanyang.top/tv/CCTV7.png" group-title="央视"
-CCTV7国防军事
-#EXTINF:-1,#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.lizanyang.top/tv/CCTV8.png" group-title="央视"
-CCTV8电视剧
-#EXTINF:-1,#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.lizanyang.top/tv/CCTV9.png" group-title="央视"
-CCTV9纪录
-#EXTINF:-1,#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.lizanyang.top/tv/CCTV10.png" group-title="央视"
-CCTV10科教
-#EXTINF:-1,#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.lizanyang.top/tv/CCTV11.png" group-title="央视"
-CCTV11戏曲
-#EXTINF:-1,#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.lizanyang.top/tv/CCTV12.png" group-title="央视"
-CCTV12社会与法
-#EXTINF:-1,#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.lizanyang.top/tv/CCTV13.png" group-title="央视"
-CCTV13新闻
-#EXTINF:-1,#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.lizanyang.top/tv/CCTV14.png" group-title="央视"
-CCTV14少儿
-#EXTINF:-1,#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.lizanyang.top/tv/CCTV15.png" group-title="央视"
-CCTV15音乐
-#EXTINF:-1,#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.lizanyang.top/tv/CCTV16.png" group-title="央视"
-CCTV16奥林匹克
-#EXTINF:-1,#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.lizanyang.top/tv/CCTV17.png" group-title="央视"
-CCTV17农业农村
-#EXTINF:-1,#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.lizanyang.top/tv/湖南卫视.png" group-title="卫视"
-湖南卫视
-#EXTINF:-1,#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.lizanyang.top/tv/浙江卫视.png" group-title="卫视"
-浙江卫视
-#EXTINF:-1,#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.lizanyang.top/tv/东方卫视.png" group-title="卫视"
-东方卫视
-#EXTINF:-1,#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.lizanyang.top/tv/北京卫视.png" group-title="卫视"
-北京卫视
-#EXTINF:-1,#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.lizanyang.top/tv/广东卫视.png" group-title="卫视"
-广东卫视
-#EXTINF:-1,#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.lizanyang.top/tv/深圳卫视.png" group-title="卫视"
-深圳卫视
-#EXTINF:-1,#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.lizanyang.top/tv/江苏卫视.png" group-title="卫视"
-江苏卫视
-#EXTINF:-1,#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.lizanyang.top/tv/山东卫视.png" group-title="卫视"
-山东卫视
-#EXTINF:-1,#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.lizanyang.top/tv/天津卫视.png" group-title="卫视"
-天津卫视
-#EXTINF:-1,#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.lizanyang.top/tv/湖北卫视.png" group-title="卫视"
-湖北卫视
-#EXTINF:-1,#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.lizanyang.top/tv/河北卫视.png" group-title="卫视"
-河北卫视
-#EXTINF:-1,#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.lizanyang.top/tv/黑龙江卫视.png" group-title="卫视"
-黑龙江卫视
-#EXTINF:-1,#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.lizanyang.top/tv/广西卫视.png" group-title="卫视"
-广西卫视
-#EXTINF:-1,#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.lizanyang.top/tv/吉林卫视.png" group-title="卫视"
-吉林卫视
-#EXTINF:-1,#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.lizanyang.top/tv/四川卫视.png" group-title="卫视"
-四川卫视
-#EXTINF:-1,#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.lizanyang.top/tv/贵州卫视.png" group-title="卫视"
-贵州卫视
-#EXTINF:-1,#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.lizanyang.top/tv/云南卫视.png" group-title="卫视"
-云南卫视
-#EXTINF:-1,#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.lizanyang.top/tv/河南卫视.png" group-title="卫视"
-河南卫视
-#EXTINF:-1,#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.lizanyang.top/tv/重庆卫视.png" group-title="卫视"
-重庆卫视
-#EXTINF:-1,#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.lizanyang.top/tv/江西卫视.png" group-title="卫视"
-江西卫视
-#EXTINF:-1,#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.lizanyang.top/tv/安徽卫视.png" group-title="卫视"
-安徽卫视
-#EXTINF:-1,#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.lizanyang.top/tv/辽宁卫视.png" group-title="卫视"
-辽宁卫视
-#EXTINF:-1,#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.lizanyang.top/tv/甘肃卫视.png" group-title="卫视"
-甘肃卫视
-#EXTINF:-1,#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.lizanyang.top/tv/海南卫视.png" group-title="卫视"
-海南卫视
-#EXTINF:-1,#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.lizanyang.top/tv/宁夏卫视.png" group-title="卫视"
-宁夏卫视
-#EXTINF:-1,#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.lizanyang.top/tv/青海卫视.png" group-title="卫视"
-青海卫视
-#EXTINF:-1,#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.lizanyang.top/tv/山西卫视.png" group-title="卫视"
-山西卫视
-#EXTINF:-1,#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.lizanyang.top/tv/西藏卫视.png" group-title="卫视"
-西藏卫视
-#EXTINF:-1,#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.lizanyang.top/tv/新疆卫视.png" group-title="卫视"
-新疆卫视
-#EXTINF:-1,#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.lizanyang.top/tv/兵团卫视.png" group-title="兵团"
-兵团卫视
-#EXTINF:-1,#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.lizanyang.top/tv/三沙卫视.png" group-title="卫视"
-三沙卫视
-#EXTINF:-1,#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.lizanyang.top/tv/CHC家庭影院.png" group-title="电影"
-CHC家庭影院
-#EXTINF:-1,#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.lizanyang.top/tv/CHC动作电影.png" group-title="电影"
-CHC动作电影
-#EXTINF:-1,#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.lizanyang.top/tv/CHC高清电影.png" group-title="电影"
-CHC高清电影
-#EXTINF:-1,#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.lizanyang.top/tv/金鹰纪实.png" group-title="纪录片"
-金鹰纪实
-#EXTINF:-1,#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://live.lizanyang.top/tv/CETV1.png" group-title="教育"
-CETV1
-#EXTINF:-1,#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://live.lizanyang.top/tv/CETV4.png" group-title="教育"
-CETV4
-#EXTINF:-1,#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.lizanyang.top/tv/金鹰卡通.png" group-title="少儿"
-金鹰卡通
-#EXTINF:-1,#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="少儿"
-卡酷少儿
-#EXTINF:-1,#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://live.lizanyang.top/tv/哈哈炫动.png" group-title="少儿"
-哈哈炫动
-#EXTINF:-1,#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://live.lizanyang.top/tv/动漫秀场.png" group-title="少儿"
-动漫秀场
-#EXTINF:-1,#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://live.lizanyang.top/tv/生活时尚.png" group-title="生活"
-生活时尚
-#EXTINF:-1,#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.lizanyang.top/tv/都市剧场.png" group-title="剧集"
-都市剧场
-#EXTINF:-1,#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.lizanyang.top/tv/快乐垂钓.png" group-title="生活"
-快乐垂钓
-#EXTINF:-1,#EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://epg.v1.mk/logo/茶.png" group-title="生活"
-茶频道
-#EXTINF:-1,#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://live.lizanyang.top/tv/东方财经.png" group-title="财经"
-东方财经
-#EXTINF:-1,#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://live.lizanyang.top/tv/金色学堂.png" group-title="教育"
-金色学堂
-#EXTINF:-1,#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.lizanyang.top/tv/中国天气.png" group-title="气象"
-中国天气
-#EXTINF:-1,#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="广西"
-广西卫视
-#EXTINF:-1,#EXTINF:-1 tvg-id="广西都市" tvg-name="广西都市" tvg-logo="https://epg.112114.xyz/logo/广西都市.png" group-title="广西"
-广西都市
-#EXTINF:-1,#EXTINF:-1 tvg-id="广西影视" tvg-name="广西影视" tvg-logo="https://epg.112114.xyz/logo/广西影视.png" group-title="广西"
-广西影视
-#EXTINF:-1,#EXTINF:-1 tvg-id="广西新闻" tvg-name="广西新闻" tvg-logo="https://epg.112114.xyz/logo/广西新闻.png" group-title="广西"
-广西新闻
-#EXTINF:-1,#EXTINF:-1 tvg-id="广西综艺旅游" tvg-name="广西综艺旅游" tvg-logo="https://epg.112114.xyz/logo/广西综艺旅游.png" group-title="广西"
-广西综艺旅游
-#EXTINF:-1,#EXTINF:-1 tvg-id="南宁新闻综合" tvg-name="南宁新闻综合" tvg-logo="https://epg.112114.xyz/logo/南宁新闻综合.png" group-title="广西"
-南宁新闻综合
-#EXTINF:-1,#EXTINF:-1 tvg-id="南宁影视娱乐" tvg-name="南宁影视娱乐" tvg-logo="https://epg.112114.xyz/logo/南宁影视娱乐.png" group-title="广西"
-南宁影视娱乐
-#EXTINF:-1,#EXTINF:-1 tvg-id="南宁公共" tvg-name="南宁公共" tvg-logo="https://epg.112114.xyz/logo/南宁公共.png" group-title="广西"
-南宁公共
-#EXTINF:-1,#EXTINF:-1 tvg-id="南宁文旅生活" tvg-name="南宁文旅生活" tvg-logo="https://epg.112114.xyz/logo/南宁文旅生活.png" group-title="广西"
-南宁文旅生活
-#EXTINF:-1,#EXTINF:-1 tvg-id="桂林新闻综合" tvg-name="桂林新闻综合" tvg-logo="https://epg.112114.xyz/logo/桂林新闻综合.png" group-title="广西"
-桂林新闻综合
-#EXTINF:-1,#EXTINF:-1 tvg-id="桂林科教旅游" tvg-name="桂林科教旅游" tvg-logo="https://xiaotan.860775.xyz/广西桂林科教旅游.png" group-title="广西"
-桂林科教旅游
-#EXTINF:-1,#EXTINF:-1 tvg-id="桂林公共" tvg-name="桂林公共" tvg-logo="https://xiaotan.860775.xyz/广西桂林公共频道.png" group-title="广西"
-桂林公共频道
-#EXTINF:-1,#EXTINF:-1 tvg-id="柳州新闻综合" tvg-name="柳州新闻综合" tvg-logo="https://epg.112114.xyz/logo/柳州新闻综合.png" group-title="广西"
-柳州新闻综合
-#EXTINF:-1,#EXTINF:-1 tvg-id="玉林新闻综合" tvg-name="玉林新闻综合" tvg-logo="https://epg.112114.xyz/logo/玉林新闻综合.png" group-title="广西"
-玉林新闻综合
-#EXTINF:-1,#EXTINF:-1 tvg-id="百色综合" tvg-name="百色综合" tvg-logo="https://epg.112114.xyz/logo/百色综合.png" group-title="广西"
-百色综合
-#EXTINF:-1,#EXTINF:-1 tvg-id="河池新闻综合" tvg-name="河池新闻综合" tvg-logo="https://epg.112114.xyz/logo/河池新闻综合.png" group-title="广西"
-河池新闻综合
-#EXTINF:-1,#EXTINF:-1 tvg-id="钦州综合" tvg-name="钦州综合" tvg-logo="https://epg.112114.xyz/logo/钦州综合.png" group-title="广西"
-钦州综合
-#EXTINF:-1,#EXTINF:-1 tvg-id="北海新闻综合" tvg-name="北海新闻综合" tvg-logo="https://epg.112114.xyz/logo/北海新闻综合.png" group-title="广西"
-北海新闻综合
-#EXTINF:-1,#EXTINF:-1 tvg-id="防城港新闻综合" tvg-name="防城港新闻综合" tvg-logo="https://epg.112114.xyz/logo/防城港新闻综合.png" group-title="广西"
-防城港新闻综合
-#EXTINF:-1,#EXTINF:-1 tvg-id="贵港新闻综合" tvg-name="贵港新闻综合" tvg-logo="https://epg.112114.xyz/logo/贵港新闻综合.png" group-title="广西"
-贵港新闻综合
-#EXTINF:-1,#EXTINF:-1 tvg-id="来宾综合" tvg-name="来宾综合" tvg-logo="https://epg.112114.xyz/logo/来宾综合.png" group-title="广西"
-来宾综合
-#EXTINF:-1,#EXTINF:-1 tvg-id="梧州新闻综合" tvg-name="梧州新闻综合" tvg-logo="https://epg.112114.xyz/logo/梧州新闻综合.png" group-title="广西"
-梧州新闻综合
-#EXTINF:-1,#EXTINF:-1 tvg-id="崇左综合" tvg-name="崇左综合" tvg-logo="https://epg.112114.xyz/logo/崇左综合.png" group-title="广西"
-崇左综合
-#EXTINF:-1,#EXTINF:-1 tvg-id="贺州综合" tvg-name="贺州综合" tvg-logo="https://epg.112114.xyz/logo/贺州综合.png" group-title="广西"
-贺州综合
-#EXTINF:-1,#EXTINF:-1 tvg-id="广西移动电视高清" tvg-name="广西移动电视高清" tvg-logo="https://epg.112114.xyz/logo/广西移动电视高清.png" group-title="广西"
-广西移动电视高清
-#EXTINF:-1,#EXTINF:-1 tvg-id="广西IPTV1" tvg-name="广西IPTV1" tvg-logo="https://epg.112114.xyz/logo/广西IPTV1.png" group-title="广西"
-广西IPTV1
-#EXTINF:-1,#EXTINF:-1 tvg-id="广西IPTV2" tvg-name="广西IPTV2" tvg-logo="https://epg.112114.xyz/logo/广西IPTV2.png" group-title="广西"
-广西IPTV2
-#EXTINF:-1,#EXTINF:-1 tvg-id="广西IPTV3" tvg-name="广西IPTV3" tvg-logo="https://epg.112114.xyz/logo/广西IPTV3.png" group-title="广西"
-广西IPTV3
-#EXTINF:-1,#EXTINF:-1 tvg-id="广西IPTV7" tvg-name="广西IPTV7" tvg-logo="https://epg.112114.xyz/logo/广西IPTV7.png" group-title="广西"
-广西IPTV7
-#EXTINF:-1,#EXTINF:-1 tvg-id="广西IPTV8" tvg-name="广西IPTV8" tvg-logo="https://epg.112114.xyz/logo/广西IPTV8.png" group-title="广西"
-广西IPTV8
-#EXTINF:-1,#EXTINF:-1 tvg-id="广西IPTV10" tvg-name="广西IPTV10" tvg-logo="https://epg.112114.xyz/logo/广西IPTV10.png" group-title="广西"
-广西IPTV10
-#EXTINF:-1,#EXTINF:-1 tvg-id="广西IPTV11" tvg-name="广西IPTV11" tvg-logo="https://epg.112114.xyz/logo/广西IPTV11.png" group-title="广西"
-广西IPTV11
-#EXTINF:-1,#EXTINF:-1 tvg-id="广西IPTV12" tvg-name="广西IPTV12" tvg-logo="https://epg.112114.xyz/logo/广西IPTV12.png" group-title="广西"
-广西IPTV12
-#EXTINF:-1,#EXTINF:-1 tvg-id="广西IPTV100" tvg-name="广西IPTV100" tvg-logo="https://epg.112114.xyz/logo/广西IPTV100.png" group-title="广西"
-广西IPTV100
-#EXTINF:-1,#EXTINF:-1 tvg-id="广西IPTV101" tvg-name="广西IPTV101" tvg-logo="https://epg.112114.xyz/logo/广西IPTV101.png" group-title="广西"
-广西IPTV101
-#EXTINF:-1,#EXTINF:-1 tvg-id="广西IPTV102" tvg-name="广西IPTV102" tvg-logo="https://epg.112114.xyz/logo/广西IPTV102.png" group-title="广西"
-广西IPTV102
-#EXTINF:-1,#EXTINF:-1 tvg-id="IPTV轮播" tvg-name="IPTV轮播" tvg-logo="https://live.lizanyang.top/tv/IPTV轮播.png" group-title="轮播"
-IPTV轮播
-#EXTINF:-1,#EXTINF:-1 tvg-id="IPTV轮播" tvg-name="IPTV轮播" tvg-logo="https://live.lizanyang.top/tv/IPTV轮播.png" group-title="轮播"
-IPTV轮播
-#EXTINF:-1,#EXTINF:-1 tvg-id="IPTV轮播" tvg-name="IPTV轮播" tvg-logo="https://live.lizanyang.top/tv/IPTV轮播.png" group-title="轮播"
-IPTV轮播
-#EXTINF:-1,#EXTINF:-1 tvg-id="4K测试频道" tvg-name="4K测试频道" tvg-logo="https://live.lizanyang.top/tv/4K测试频道.png" group-title="测试"
-4K测试频道
+#EXTINF:1 TVGID="湖南卫视4K" TVGNAME="湖南卫视4K" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/湖南卫视4K.PNG" GROUPTITLE="4K",湖南卫视4K,tvmao-#extinf:1tvgid="hunanweishi4k"tvgname="hunanweishi4k"tvglogo="https://live.lizanyang.top/tv/hunanweishi4k.png"grouptitle="4k",,
+#EXTINF:1 TVGID="江苏卫视4K" TVGNAME="江苏卫视4K" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/江苏卫视4K.PNG" GROUPTITLE="4K",江苏卫视4K,tvmao-#extinf:1tvgid="jiangsuweishi4k"tvgname="jiangsuweishi4k"tvglogo="https://live.lizanyang.top/tv/jiangsuweishi4k.png"grouptitle="4k",,
+#EXTINF:1 TVGID="浙江卫视4K" TVGNAME="浙江卫视4K" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/浙江卫视4K.PNG" GROUPTITLE="4K",浙江卫视4K,tvmao-#extinf:1tvgid="zhejiangweishi4k"tvgname="zhejiangweishi4k"tvglogo="https://live.lizanyang.top/tv/zhejiangweishi4k.png"grouptitle="4k",,
+#EXTINF:1 TVGID="东方卫视4K" TVGNAME="东方卫视4K" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/东方卫视4K.PNG" GROUPTITLE="4K",东方卫视4K,tvmao-#extinf:1tvgid="dongfangweishi4k"tvgname="dongfangweishi4k"tvglogo="https://live.lizanyang.top/tv/dongfangweishi4k.png"grouptitle="4k",,
+#EXTINF:1 TVGID="山东卫视4K" TVGNAME="山东卫视4K" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/山东卫视4K.PNG" GROUPTITLE="4K",山东卫视4K,tvmao-#extinf:1tvgid="shandongweishi4k"tvgname="shandongweishi4k"tvglogo="https://live.lizanyang.top/tv/shandongweishi4k.png"grouptitle="4k",,
+#EXTINF:1 TVGID="四川卫视4K" TVGNAME="四川卫视4K" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/四川卫视4K.PNG" GROUPTITLE="4K",四川卫视4K,tvmao-#extinf:1tvgid="sichuanweishi4k"tvgname="sichuanweishi4k"tvglogo="https://live.lizanyang.top/tv/sichuanweishi4k.png"grouptitle="4k",,
+#EXTINF:1 TVGID="CCTV4K" TVGNAME="CCTV4K" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/CCTV4K.PNG" GROUPTITLE="4K",CCTV4K,tvmao-#extinf:1tvgid="cctv4k"tvgname="cctv4k"tvglogo="https://live.lizanyang.top/tv/cctv4k.png"grouptitle="4k",,
+#EXTINF:1 TVGID="CCTV164K" TVGNAME="CCTV164K" TVGLOGO="HTTPS://EPG.V1.MK/LOGO/CCTV164K.PNG" GROUPTITLE="4K",CCTV16-4K,tvmao-cctv16,,
+#EXTINF:1 TVGID="欢笑剧场4K" TVGNAME="欢笑剧场4K" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/欢笑剧场4K.PNG" GROUPTITLE="4K",欢笑剧场4K,tvmao-#extinf:1tvgid="huanxiaojuchang4k"tvgname="huanxiaojuchang4k"tvglogo="https://live.lizanyang.top/tv/huanxiaojuchang4k.png"grouptitle="4k",,
+#EXTINF:1 TVGID="广东卫视4K" TVGNAME="广东卫视4K" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/广东卫视4K.PNG" GROUPTITLE="4K",广东卫视4K,tvmao-#extinf:1tvgid="guangdongweishi4k"tvgname="guangdongweishi4k"tvglogo="https://live.lizanyang.top/tv/guangdongweishi4k.png"grouptitle="4k",,
+#EXTINF:1 TVGID="深圳卫视4K" TVGNAME="深圳卫视4K" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/深圳卫视4K.PNG" GROUPTITLE="4K",深圳卫视4K,tvmao-#extinf:1tvgid="shenzhenweishi4k"tvgname="shenzhenweishi4k"tvglogo="https://live.lizanyang.top/tv/shenzhenweishi4k.png"grouptitle="4k",,
+#EXTINF:1 TVGID="北京卫视4K50帧" TVGNAME="北京卫视4K50帧" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/北京卫视4K.PNG" GROUPTITLE="4K",北京卫视4K-50帧,tvmao-#extinf:1tvgid="beijingweishi4k50zhen"tvgname="beijingweishi4k50zhen"tvglogo="https://live.lizanyang.top/tv/beijingweishi4k.png"grouptitle="4k",,
+#EXTINF:1 TVGID="北京卫视4K25帧" TVGNAME="北京卫视4K25帧" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/北京卫视4K.PNG" GROUPTITLE="4K",北京卫视4K-25帧,tvmao-#extinf:1tvgid="beijingweishi4k25zhen"tvgname="beijingweishi4k25zhen"tvglogo="https://live.lizanyang.top/tv/beijingweishi4k.png"grouptitle="4k",,
+#EXTINF:1 TVGID="CCTV1" TVGNAME="CCTV1" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/CCTV1.PNG" GROUPTITLE="央视",CCTV1综合,tvmao-cctv1,,
+#EXTINF:1 TVGID="CCTV2" TVGNAME="CCTV2" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/CCTV2.PNG" GROUPTITLE="央视",CCTV2财经,tvmao-cctv2,,
+#EXTINF:1 TVGID="CCTV3" TVGNAME="CCTV3" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/CCTV3.PNG" GROUPTITLE="央视",CCTV3综艺,tvmao-cctv3,,
+#EXTINF:1 TVGID="CCTV4" TVGNAME="CCTV4" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/CCTV4.PNG" GROUPTITLE="央视",CCTV4中文国际,tvmao-cctv4,,
+#EXTINF:1 TVGID="CCTV5" TVGNAME="CCTV5" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/CCTV5.PNG" GROUPTITLE="央视",CCTV5体育,tvmao-cctv5,,
+#EXTINF:1 TVGID="CCTV5+" TVGNAME="CCTV5+" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/CCTV5+.PNG" GROUPTITLE="央视",CCTV5+,tvmao-cctv5plus,,
+#EXTINF:1 TVGID="CCTV6" TVGNAME="CCTV6" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/CCTV6.PNG" GROUPTITLE="央视",CCTV6电影,tvmao-cctv6,,
+#EXTINF:1 TVGID="CCTV7" TVGNAME="CCTV7" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/CCTV7.PNG" GROUPTITLE="央视",CCTV7国防军事,tvmao-cctv7,,
+#EXTINF:1 TVGID="CCTV8" TVGNAME="CCTV8" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/CCTV8.PNG" GROUPTITLE="央视",CCTV8电视剧,tvmao-cctv8,,
+#EXTINF:1 TVGID="CCTV9" TVGNAME="CCTV9" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/CCTV9.PNG" GROUPTITLE="央视",CCTV9纪录,tvmao-cctv9,,
+#EXTINF:1 TVGID="CCTV10" TVGNAME="CCTV10" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/CCTV10.PNG" GROUPTITLE="央视",CCTV10科教,tvmao-cctv10,,
+#EXTINF:1 TVGID="CCTV11" TVGNAME="CCTV11" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/CCTV11.PNG" GROUPTITLE="央视",CCTV11戏曲,tvmao-cctv11,,
+#EXTINF:1 TVGID="CCTV12" TVGNAME="CCTV12" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/CCTV12.PNG" GROUPTITLE="央视",CCTV12社会与法,tvmao-cctv12,,
+#EXTINF:1 TVGID="CCTV13" TVGNAME="CCTV13" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/CCTV13.PNG" GROUPTITLE="央视",CCTV13新闻,tvmao-cctv13,,
+#EXTINF:1 TVGID="CCTV14" TVGNAME="CCTV14" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/CCTV14.PNG" GROUPTITLE="央视",CCTV14少儿,tvmao-cctv14,,
+#EXTINF:1 TVGID="CCTV15" TVGNAME="CCTV15" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/CCTV15.PNG" GROUPTITLE="央视",CCTV15音乐,tvmao-cctv15,,
+#EXTINF:1 TVGID="CCTV16" TVGNAME="CCTV16" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/CCTV16.PNG" GROUPTITLE="央视",CCTV16奥林匹克,tvmao-cctv16,,
+#EXTINF:1 TVGID="CCTV17" TVGNAME="CCTV17" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/CCTV17.PNG" GROUPTITLE="央视",CCTV17农业农村,tvmao-cctv17,,
+#EXTINF:1 TVGID="湖南卫视" TVGNAME="湖南卫视" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/湖南卫视.PNG" GROUPTITLE="卫视",湖南卫视,tvmao-#extinf:1tvgid="hunanweishi"tvgname="hunanweishi"tvglogo="https://live.lizanyang.top/tv/hunanweishi.png"grouptitle="weishi",,
+#EXTINF:1 TVGID="浙江卫视" TVGNAME="浙江卫视" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/浙江卫视.PNG" GROUPTITLE="卫视",浙江卫视,tvmao-#extinf:1tvgid="zhejiangweishi"tvgname="zhejiangweishi"tvglogo="https://live.lizanyang.top/tv/zhejiangweishi.png"grouptitle="weishi",,
+#EXTINF:1 TVGID="东方卫视" TVGNAME="东方卫视" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/东方卫视.PNG" GROUPTITLE="卫视",东方卫视,tvmao-#extinf:1tvgid="dongfangweishi"tvgname="dongfangweishi"tvglogo="https://live.lizanyang.top/tv/dongfangweishi.png"grouptitle="weishi",,
+#EXTINF:1 TVGID="北京卫视" TVGNAME="北京卫视" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/北京卫视.PNG" GROUPTITLE="卫视",北京卫视,tvmao-#extinf:1tvgid="beijingweishi"tvgname="beijingweishi"tvglogo="https://live.lizanyang.top/tv/beijingweishi.png"grouptitle="weishi",,
+#EXTINF:1 TVGID="广东卫视" TVGNAME="广东卫视" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/广东卫视.PNG" GROUPTITLE="卫视",广东卫视,tvmao-#extinf:1tvgid="guangdongweishi"tvgname="guangdongweishi"tvglogo="https://live.lizanyang.top/tv/guangdongweishi.png"grouptitle="weishi",,
+#EXTINF:1 TVGID="深圳卫视" TVGNAME="深圳卫视" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/深圳卫视.PNG" GROUPTITLE="卫视",深圳卫视,tvmao-#extinf:1tvgid="shenzhenweishi"tvgname="shenzhenweishi"tvglogo="https://live.lizanyang.top/tv/shenzhenweishi.png"grouptitle="weishi",,
+#EXTINF:1 TVGID="江苏卫视" TVGNAME="江苏卫视" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/江苏卫视.PNG" GROUPTITLE="卫视",江苏卫视,tvmao-#extinf:1tvgid="jiangsuweishi"tvgname="jiangsuweishi"tvglogo="https://live.lizanyang.top/tv/jiangsuweishi.png"grouptitle="weishi",,
+#EXTINF:1 TVGID="山东卫视" TVGNAME="山东卫视" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/山东卫视.PNG" GROUPTITLE="卫视",山东卫视,tvmao-#extinf:1tvgid="shandongweishi"tvgname="shandongweishi"tvglogo="https://live.lizanyang.top/tv/shandongweishi.png"grouptitle="weishi",,
+#EXTINF:1 TVGID="天津卫视" TVGNAME="天津卫视" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/天津卫视.PNG" GROUPTITLE="卫视",天津卫视,tvmao-#extinf:1tvgid="tianjinweishi"tvgname="tianjinweishi"tvglogo="https://live.lizanyang.top/tv/tianjinweishi.png"grouptitle="weishi",,
+#EXTINF:1 TVGID="湖北卫视" TVGNAME="湖北卫视" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/湖北卫视.PNG" GROUPTITLE="卫视",湖北卫视,tvmao-#extinf:1tvgid="hubeiweishi"tvgname="hubeiweishi"tvglogo="https://live.lizanyang.top/tv/hubeiweishi.png"grouptitle="weishi",,
+#EXTINF:1 TVGID="河北卫视" TVGNAME="河北卫视" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/河北卫视.PNG" GROUPTITLE="卫视",河北卫视,tvmao-#extinf:1tvgid="hebeiweishi"tvgname="hebeiweishi"tvglogo="https://live.lizanyang.top/tv/hebeiweishi.png"grouptitle="weishi",,
+#EXTINF:1 TVGID="黑龙江卫视" TVGNAME="黑龙江卫视" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/黑龙江卫视.PNG" GROUPTITLE="卫视",黑龙江卫视,tvmao-#extinf:1tvgid="heilongjiangweishi"tvgname="heilongjiangweishi"tvglogo="https://live.lizanyang.top/tv/heilongjiangweishi.png"grouptitle="weishi",,
+#EXTINF:1 TVGID="广西卫视" TVGNAME="广西卫视" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/广西卫视.PNG" GROUPTITLE="卫视",广西卫视,tvmao-#extinf:1tvgid="guangxiweishi"tvgname="guangxiweishi"tvglogo="https://live.lizanyang.top/tv/guangxiweishi.png"grouptitle="weishi",,
+#EXTINF:1 TVGID="吉林卫视" TVGNAME="吉林卫视" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/吉林卫视.PNG" GROUPTITLE="卫视",吉林卫视,tvmao-#extinf:1tvgid="jilinweishi"tvgname="jilinweishi"tvglogo="https://live.lizanyang.top/tv/jilinweishi.png"grouptitle="weishi",,
+#EXTINF:1 TVGID="四川卫视" TVGNAME="四川卫视" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/四川卫视.PNG" GROUPTITLE="卫视",四川卫视,tvmao-#extinf:1tvgid="sichuanweishi"tvgname="sichuanweishi"tvglogo="https://live.lizanyang.top/tv/sichuanweishi.png"grouptitle="weishi",,
+#EXTINF:1 TVGID="贵州卫视" TVGNAME="贵州卫视" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/贵州卫视.PNG" GROUPTITLE="卫视",贵州卫视,tvmao-#extinf:1tvgid="guizhouweishi"tvgname="guizhouweishi"tvglogo="https://live.lizanyang.top/tv/guizhouweishi.png"grouptitle="weishi",,
+#EXTINF:1 TVGID="云南卫视" TVGNAME="云南卫视" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/云南卫视.PNG" GROUPTITLE="卫视",云南卫视,tvmao-#extinf:1tvgid="yunnanweishi"tvgname="yunnanweishi"tvglogo="https://live.lizanyang.top/tv/yunnanweishi.png"grouptitle="weishi",,
+#EXTINF:1 TVGID="河南卫视" TVGNAME="河南卫视" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/河南卫视.PNG" GROUPTITLE="卫视",河南卫视,tvmao-#extinf:1tvgid="henanweishi"tvgname="henanweishi"tvglogo="https://live.lizanyang.top/tv/henanweishi.png"grouptitle="weishi",,
+#EXTINF:1 TVGID="重庆卫视" TVGNAME="重庆卫视" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/重庆卫视.PNG" GROUPTITLE="卫视",重庆卫视,tvmao-#extinf:1tvgid="chongqingweishi"tvgname="chongqingweishi"tvglogo="https://live.lizanyang.top/tv/chongqingweishi.png"grouptitle="weishi",,
+#EXTINF:1 TVGID="江西卫视" TVGNAME="江西卫视" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/江西卫视.PNG" GROUPTITLE="卫视",江西卫视,tvmao-#extinf:1tvgid="jiangxiweishi"tvgname="jiangxiweishi"tvglogo="https://live.lizanyang.top/tv/jiangxiweishi.png"grouptitle="weishi",,
+#EXTINF:1 TVGID="安徽卫视" TVGNAME="安徽卫视" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/安徽卫视.PNG" GROUPTITLE="卫视",安徽卫视,tvmao-#extinf:1tvgid="anhuiweishi"tvgname="anhuiweishi"tvglogo="https://live.lizanyang.top/tv/anhuiweishi.png"grouptitle="weishi",,
+#EXTINF:1 TVGID="辽宁卫视" TVGNAME="辽宁卫视" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/辽宁卫视.PNG" GROUPTITLE="卫视",辽宁卫视,tvmao-#extinf:1tvgid="liaoningweishi"tvgname="liaoningweishi"tvglogo="https://live.lizanyang.top/tv/liaoningweishi.png"grouptitle="weishi",,
+#EXTINF:1 TVGID="甘肃卫视" TVGNAME="甘肃卫视" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/甘肃卫视.PNG" GROUPTITLE="卫视",甘肃卫视,tvmao-#extinf:1tvgid="gansuweishi"tvgname="gansuweishi"tvglogo="https://live.lizanyang.top/tv/gansuweishi.png"grouptitle="weishi",,
+#EXTINF:1 TVGID="海南卫视" TVGNAME="海南卫视" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/海南卫视.PNG" GROUPTITLE="卫视",海南卫视,tvmao-#extinf:1tvgid="hainanweishi"tvgname="hainanweishi"tvglogo="https://live.lizanyang.top/tv/hainanweishi.png"grouptitle="weishi",,
+#EXTINF:1 TVGID="宁夏卫视" TVGNAME="宁夏卫视" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/宁夏卫视.PNG" GROUPTITLE="卫视",宁夏卫视,tvmao-#extinf:1tvgid="ningxiaweishi"tvgname="ningxiaweishi"tvglogo="https://live.lizanyang.top/tv/ningxiaweishi.png"grouptitle="weishi",,
+#EXTINF:1 TVGID="青海卫视" TVGNAME="青海卫视" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/青海卫视.PNG" GROUPTITLE="卫视",青海卫视,tvmao-#extinf:1tvgid="qinghaiweishi"tvgname="qinghaiweishi"tvglogo="https://live.lizanyang.top/tv/qinghaiweishi.png"grouptitle="weishi",,
+#EXTINF:1 TVGID="山西卫视" TVGNAME="山西卫视" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/山西卫视.PNG" GROUPTITLE="卫视",山西卫视,tvmao-#extinf:1tvgid="shanxiweishi"tvgname="shanxiweishi"tvglogo="https://live.lizanyang.top/tv/shanxiweishi.png"grouptitle="weishi",,
+#EXTINF:1 TVGID="西藏卫视" TVGNAME="西藏卫视" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/西藏卫视.PNG" GROUPTITLE="卫视",西藏卫视,tvmao-#extinf:1tvgid="xizangweishi"tvgname="xizangweishi"tvglogo="https://live.lizanyang.top/tv/xizangweishi.png"grouptitle="weishi",,
+#EXTINF:1 TVGID="新疆卫视" TVGNAME="新疆卫视" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/新疆卫视.PNG" GROUPTITLE="卫视",新疆卫视,tvmao-#extinf:1tvgid="xinjiangweishi"tvgname="xinjiangweishi"tvglogo="https://live.lizanyang.top/tv/xinjiangweishi.png"grouptitle="weishi",,
+#EXTINF:1 TVGID="兵团卫视" TVGNAME="兵团卫视" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/兵团卫视.PNG" GROUPTITLE="兵团",兵团卫视,tvmao-#extinf:1tvgid="bingtuanweishi"tvgname="bingtuanweishi"tvglogo="https://live.lizanyang.top/tv/bingtuanweishi.png"grouptitle="bingtuan",,
+#EXTINF:1 TVGID="三沙卫视" TVGNAME="三沙卫视" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/三沙卫视.PNG" GROUPTITLE="卫视",三沙卫视,tvmao-#extinf:1tvgid="sanshaweishi"tvgname="sanshaweishi"tvglogo="https://live.lizanyang.top/tv/sanshaweishi.png"grouptitle="weishi",,
+#EXTINF:1 TVGID="CHC家庭影院" TVGNAME="CHC家庭影院" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/CHC家庭影院.PNG" GROUPTITLE="电影",CHC家庭影院,tvmao-#extinf:1tvgid="chcjiatingyingyuan"tvgname="chcjiatingyingyuan"tvglogo="https://live.lizanyang.top/tv/chcjiatingyingyuan.png"grouptitle="dianying",,
+#EXTINF:1 TVGID="CHC动作电影" TVGNAME="CHC动作电影" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/CHC动作电影.PNG" GROUPTITLE="电影",CHC动作电影,tvmao-#extinf:1tvgid="chcdongzuodianying"tvgname="chcdongzuodianying"tvglogo="https://live.lizanyang.top/tv/chcdongzuodianying.png"grouptitle="dianying",,
+#EXTINF:1 TVGID="CHC高清电影" TVGNAME="CHC高清电影" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/CHC高清电影.PNG" GROUPTITLE="电影",CHC高清电影,tvmao-#extinf:1tvgid="chcgaoqingdianying"tvgname="chcgaoqingdianying"tvglogo="https://live.lizanyang.top/tv/chcgaoqingdianying.png"grouptitle="dianying",,
+#EXTINF:1 TVGID="金鹰纪实" TVGNAME="金鹰纪实" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/金鹰纪实.PNG" GROUPTITLE="纪录片",金鹰纪实,tvmao-#extinf:1tvgid="jinyingjishi"tvgname="jinyingjishi"tvglogo="https://live.lizanyang.top/tv/jinyingjishi.png"grouptitle="jilupian",,
+#EXTINF:1 TVGID="CETV1" TVGNAME="CETV1" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/CETV1.PNG" GROUPTITLE="教育",CETV1,tvmao-#extinf:1tvgid="cetv1"tvgname="cetv1"tvglogo="https://live.lizanyang.top/tv/cetv1.png"grouptitle="jiaoyu",,
+#EXTINF:1 TVGID="CETV4" TVGNAME="CETV4" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/CETV4.PNG" GROUPTITLE="教育",CETV4,tvmao-#extinf:1tvgid="cetv4"tvgname="cetv4"tvglogo="https://live.lizanyang.top/tv/cetv4.png"grouptitle="jiaoyu",,
+#EXTINF:1 TVGID="金鹰卡通" TVGNAME="金鹰卡通" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/金鹰卡通.PNG" GROUPTITLE="少儿",金鹰卡通,tvmao-#extinf:1tvgid="jinyingkatong"tvgname="jinyingkatong"tvglogo="https://live.lizanyang.top/tv/jinyingkatong.png"grouptitle="shaoer",,
+#EXTINF:1 TVGID="卡酷少儿" TVGNAME="卡酷少儿" TVGLOGO="HTTPS://EPG.112114.XYZ/LOGO/卡酷少儿.PNG" GROUPTITLE="少儿",卡酷少儿,tvmao-#extinf:1tvgid="kakushaoer"tvgname="kakushaoer"tvglogo="https://epg.112114.xyz/logo/kakushaoer.png"grouptitle="shaoer",,
+#EXTINF:1 TVGID="哈哈炫动" TVGNAME="哈哈炫动" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/哈哈炫动.PNG" GROUPTITLE="少儿",哈哈炫动,tvmao-#extinf:1tvgid="hahaxuandong"tvgname="hahaxuandong"tvglogo="https://live.lizanyang.top/tv/hahaxuandong.png"grouptitle="shaoer",,
+#EXTINF:1 TVGID="动漫秀场" TVGNAME="动漫秀场" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/动漫秀场.PNG" GROUPTITLE="少儿",动漫秀场,tvmao-#extinf:1tvgid="dongmanxiuchang"tvgname="dongmanxiuchang"tvglogo="https://live.lizanyang.top/tv/dongmanxiuchang.png"grouptitle="shaoer",,
+#EXTINF:1 TVGID="生活时尚" TVGNAME="生活时尚" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/生活时尚.PNG" GROUPTITLE="生活",生活时尚,tvmao-#extinf:1tvgid="shenghuoshishang"tvgname="shenghuoshishang"tvglogo="https://live.lizanyang.top/tv/shenghuoshishang.png"grouptitle="shenghuo",,
+#EXTINF:1 TVGID="都市剧场" TVGNAME="都市剧场" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/都市剧场.PNG" GROUPTITLE="剧集",都市剧场,tvmao-#extinf:1tvgid="doushijuchang"tvgname="doushijuchang"tvglogo="https://live.lizanyang.top/tv/doushijuchang.png"grouptitle="juji",,
+#EXTINF:1 TVGID="快乐垂钓" TVGNAME="快乐垂钓" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/快乐垂钓.PNG" GROUPTITLE="生活",快乐垂钓,tvmao-#extinf:1tvgid="kuailechuidiao"tvgname="kuailechuidiao"tvglogo="https://live.lizanyang.top/tv/kuailechuidiao.png"grouptitle="shenghuo",,
+#EXTINF:1 TVGID="茶频道" TVGNAME="茶频道" TVGLOGO="HTTPS://EPG.V1.MK/LOGO/茶.PNG" GROUPTITLE="生活",茶频道,tvmao-#extinf:1tvgid="chapindao"tvgname="chapindao"tvglogo="https://epg.v1.mk/logo/cha.png"grouptitle="shenghuo",,
+#EXTINF:1 TVGID="东方财经" TVGNAME="东方财经" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/东方财经.PNG" GROUPTITLE="财经",东方财经,tvmao-#extinf:1tvgid="dongfangcaijing"tvgname="dongfangcaijing"tvglogo="https://live.lizanyang.top/tv/dongfangcaijing.png"grouptitle="caijing",,
+#EXTINF:1 TVGID="金色学堂" TVGNAME="金色学堂" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/金色学堂.PNG" GROUPTITLE="教育",金色学堂,tvmao-#extinf:1tvgid="jinsexuetang"tvgname="jinsexuetang"tvglogo="https://live.lizanyang.top/tv/jinsexuetang.png"grouptitle="jiaoyu",,
+#EXTINF:1 TVGID="中国天气" TVGNAME="中国天气" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/中国天气.PNG" GROUPTITLE="气象",中国天气,tvmao-#extinf:1tvgid="zhongguotianqi"tvgname="zhongguotianqi"tvglogo="https://live.lizanyang.top/tv/zhongguotianqi.png"grouptitle="qixiang",,
+#EXTINF:1 TVGID="广西卫视" TVGNAME="广西卫视" TVGLOGO="HTTPS://EPG.112114.XYZ/LOGO/广西卫视.PNG" GROUPTITLE="广西",广西卫视,tvmao-#extinf:1tvgid="guangxiweishi"tvgname="guangxiweishi"tvglogo="https://epg.112114.xyz/logo/guangxiweishi.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="广西都市" TVGNAME="广西都市" TVGLOGO="HTTPS://EPG.112114.XYZ/LOGO/广西都市.PNG" GROUPTITLE="广西",广西都市,tvmao-#extinf:1tvgid="guangxidoushi"tvgname="guangxidoushi"tvglogo="https://epg.112114.xyz/logo/guangxidoushi.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="广西影视" TVGNAME="广西影视" TVGLOGO="HTTPS://EPG.112114.XYZ/LOGO/广西影视.PNG" GROUPTITLE="广西",广西影视,tvmao-#extinf:1tvgid="guangxiyingshi"tvgname="guangxiyingshi"tvglogo="https://epg.112114.xyz/logo/guangxiyingshi.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="广西新闻" TVGNAME="广西新闻" TVGLOGO="HTTPS://EPG.112114.XYZ/LOGO/广西新闻.PNG" GROUPTITLE="广西",广西新闻,tvmao-#extinf:1tvgid="guangxixinwen"tvgname="guangxixinwen"tvglogo="https://epg.112114.xyz/logo/guangxixinwen.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="广西综艺旅游" TVGNAME="广西综艺旅游" TVGLOGO="HTTPS://EPG.112114.XYZ/LOGO/广西综艺旅游.PNG" GROUPTITLE="广西",广西综艺旅游,tvmao-#extinf:1tvgid="guangxizongyilüyou"tvgname="guangxizongyilüyou"tvglogo="https://epg.112114.xyz/logo/guangxizongyilüyou.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="南宁新闻综合" TVGNAME="南宁新闻综合" TVGLOGO="HTTPS://EPG.112114.XYZ/LOGO/南宁新闻综合.PNG" GROUPTITLE="广西",南宁新闻综合,tvmao-#extinf:1tvgid="nanningxinwenzonghe"tvgname="nanningxinwenzonghe"tvglogo="https://epg.112114.xyz/logo/nanningxinwenzonghe.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="南宁影视娱乐" TVGNAME="南宁影视娱乐" TVGLOGO="HTTPS://EPG.112114.XYZ/LOGO/南宁影视娱乐.PNG" GROUPTITLE="广西",南宁影视娱乐,tvmao-#extinf:1tvgid="nanningyingshiyule"tvgname="nanningyingshiyule"tvglogo="https://epg.112114.xyz/logo/nanningyingshiyule.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="南宁公共" TVGNAME="南宁公共" TVGLOGO="HTTPS://EPG.112114.XYZ/LOGO/南宁公共.PNG" GROUPTITLE="广西",南宁公共,tvmao-#extinf:1tvgid="nanninggonggong"tvgname="nanninggonggong"tvglogo="https://epg.112114.xyz/logo/nanninggonggong.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="南宁文旅生活" TVGNAME="南宁文旅生活" TVGLOGO="HTTPS://EPG.112114.XYZ/LOGO/南宁文旅生活.PNG" GROUPTITLE="广西",南宁文旅生活,tvmao-#extinf:1tvgid="nanningwenlüshenghuo"tvgname="nanningwenlüshenghuo"tvglogo="https://epg.112114.xyz/logo/nanningwenlüshenghuo.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="桂林新闻综合" TVGNAME="桂林新闻综合" TVGLOGO="HTTPS://EPG.112114.XYZ/LOGO/桂林新闻综合.PNG" GROUPTITLE="广西",桂林新闻综合,tvmao-#extinf:1tvgid="guilinxinwenzonghe"tvgname="guilinxinwenzonghe"tvglogo="https://epg.112114.xyz/logo/guilinxinwenzonghe.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="桂林科教旅游" TVGNAME="桂林科教旅游" TVGLOGO="HTTPS://XIAOTAN.860775.XYZ/广西桂林科教旅游.PNG" GROUPTITLE="广西",桂林科教旅游,tvmao-#extinf:1tvgid="guilinkejiaolüyou"tvgname="guilinkejiaolüyou"tvglogo="https://xiaotan.860775.xyz/guangxiguilinkejiaolüyou.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="桂林公共" TVGNAME="桂林公共" TVGLOGO="HTTPS://XIAOTAN.860775.XYZ/广西桂林公共频道.PNG" GROUPTITLE="广西",桂林公共频道,tvmao-#extinf:1tvgid="guilingonggong"tvgname="guilingonggong"tvglogo="https://xiaotan.860775.xyz/guangxiguilingonggongpindao.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="柳州新闻综合" TVGNAME="柳州新闻综合" TVGLOGO="HTTPS://EPG.112114.XYZ/LOGO/柳州新闻综合.PNG" GROUPTITLE="广西",柳州新闻综合,tvmao-#extinf:1tvgid="liuzhouxinwenzonghe"tvgname="liuzhouxinwenzonghe"tvglogo="https://epg.112114.xyz/logo/liuzhouxinwenzonghe.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="玉林新闻综合" TVGNAME="玉林新闻综合" TVGLOGO="HTTPS://EPG.112114.XYZ/LOGO/玉林新闻综合.PNG" GROUPTITLE="广西",玉林新闻综合,tvmao-#extinf:1tvgid="yulinxinwenzonghe"tvgname="yulinxinwenzonghe"tvglogo="https://epg.112114.xyz/logo/yulinxinwenzonghe.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="百色综合" TVGNAME="百色综合" TVGLOGO="HTTPS://EPG.112114.XYZ/LOGO/百色综合.PNG" GROUPTITLE="广西",百色综合,tvmao-#extinf:1tvgid="baisezonghe"tvgname="baisezonghe"tvglogo="https://epg.112114.xyz/logo/baisezonghe.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="河池新闻综合" TVGNAME="河池新闻综合" TVGLOGO="HTTPS://EPG.112114.XYZ/LOGO/河池新闻综合.PNG" GROUPTITLE="广西",河池新闻综合,tvmao-#extinf:1tvgid="hechixinwenzonghe"tvgname="hechixinwenzonghe"tvglogo="https://epg.112114.xyz/logo/hechixinwenzonghe.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="钦州综合" TVGNAME="钦州综合" TVGLOGO="HTTPS://EPG.112114.XYZ/LOGO/钦州综合.PNG" GROUPTITLE="广西",钦州综合,tvmao-#extinf:1tvgid="qinzhouzonghe"tvgname="qinzhouzonghe"tvglogo="https://epg.112114.xyz/logo/qinzhouzonghe.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="北海新闻综合" TVGNAME="北海新闻综合" TVGLOGO="HTTPS://EPG.112114.XYZ/LOGO/北海新闻综合.PNG" GROUPTITLE="广西",北海新闻综合,tvmao-#extinf:1tvgid="beihaixinwenzonghe"tvgname="beihaixinwenzonghe"tvglogo="https://epg.112114.xyz/logo/beihaixinwenzonghe.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="防城港新闻综合" TVGNAME="防城港新闻综合" TVGLOGO="HTTPS://EPG.112114.XYZ/LOGO/防城港新闻综合.PNG" GROUPTITLE="广西",防城港新闻综合,tvmao-#extinf:1tvgid="fangchenggangxinwenzonghe"tvgname="fangchenggangxinwenzonghe"tvglogo="https://epg.112114.xyz/logo/fangchenggangxinwenzonghe.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="贵港新闻综合" TVGNAME="贵港新闻综合" TVGLOGO="HTTPS://EPG.112114.XYZ/LOGO/贵港新闻综合.PNG" GROUPTITLE="广西",贵港新闻综合,tvmao-#extinf:1tvgid="guigangxinwenzonghe"tvgname="guigangxinwenzonghe"tvglogo="https://epg.112114.xyz/logo/guigangxinwenzonghe.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="来宾综合" TVGNAME="来宾综合" TVGLOGO="HTTPS://EPG.112114.XYZ/LOGO/来宾综合.PNG" GROUPTITLE="广西",来宾综合,tvmao-#extinf:1tvgid="laibinzonghe"tvgname="laibinzonghe"tvglogo="https://epg.112114.xyz/logo/laibinzonghe.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="梧州新闻综合" TVGNAME="梧州新闻综合" TVGLOGO="HTTPS://EPG.112114.XYZ/LOGO/梧州新闻综合.PNG" GROUPTITLE="广西",梧州新闻综合,tvmao-#extinf:1tvgid="wuzhouxinwenzonghe"tvgname="wuzhouxinwenzonghe"tvglogo="https://epg.112114.xyz/logo/wuzhouxinwenzonghe.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="崇左综合" TVGNAME="崇左综合" TVGLOGO="HTTPS://EPG.112114.XYZ/LOGO/崇左综合.PNG" GROUPTITLE="广西",崇左综合,tvmao-#extinf:1tvgid="chongzuozonghe"tvgname="chongzuozonghe"tvglogo="https://epg.112114.xyz/logo/chongzuozonghe.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="贺州综合" TVGNAME="贺州综合" TVGLOGO="HTTPS://EPG.112114.XYZ/LOGO/贺州综合.PNG" GROUPTITLE="广西",贺州综合,tvmao-#extinf:1tvgid="hezhouzonghe"tvgname="hezhouzonghe"tvglogo="https://epg.112114.xyz/logo/hezhouzonghe.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="广西移动电视高清" TVGNAME="广西移动电视高清" TVGLOGO="HTTPS://EPG.112114.XYZ/LOGO/广西移动电视高清.PNG" GROUPTITLE="广西",广西移动电视高清,tvmao-#extinf:1tvgid="guangxiyidongdianshigaoqing"tvgname="guangxiyidongdianshigaoqing"tvglogo="https://epg.112114.xyz/logo/guangxiyidongdianshigaoqing.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="广西IPTV1" TVGNAME="广西IPTV1" TVGLOGO="HTTPS://EPG.112114.XYZ/LOGO/广西IPTV1.PNG" GROUPTITLE="广西",广西IPTV1,tvmao-#extinf:1tvgid="guangxiiptv1"tvgname="guangxiiptv1"tvglogo="https://epg.112114.xyz/logo/guangxiiptv1.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="广西IPTV2" TVGNAME="广西IPTV2" TVGLOGO="HTTPS://EPG.112114.XYZ/LOGO/广西IPTV2.PNG" GROUPTITLE="广西",广西IPTV2,tvmao-#extinf:1tvgid="guangxiiptv2"tvgname="guangxiiptv2"tvglogo="https://epg.112114.xyz/logo/guangxiiptv2.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="广西IPTV3" TVGNAME="广西IPTV3" TVGLOGO="HTTPS://EPG.112114.XYZ/LOGO/广西IPTV3.PNG" GROUPTITLE="广西",广西IPTV3,tvmao-#extinf:1tvgid="guangxiiptv3"tvgname="guangxiiptv3"tvglogo="https://epg.112114.xyz/logo/guangxiiptv3.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="广西IPTV7" TVGNAME="广西IPTV7" TVGLOGO="HTTPS://EPG.112114.XYZ/LOGO/广西IPTV7.PNG" GROUPTITLE="广西",广西IPTV7,tvmao-#extinf:1tvgid="guangxiiptv7"tvgname="guangxiiptv7"tvglogo="https://epg.112114.xyz/logo/guangxiiptv7.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="广西IPTV8" TVGNAME="广西IPTV8" TVGLOGO="HTTPS://EPG.112114.XYZ/LOGO/广西IPTV8.PNG" GROUPTITLE="广西",广西IPTV8,tvmao-#extinf:1tvgid="guangxiiptv8"tvgname="guangxiiptv8"tvglogo="https://epg.112114.xyz/logo/guangxiiptv8.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="广西IPTV10" TVGNAME="广西IPTV10" TVGLOGO="HTTPS://EPG.112114.XYZ/LOGO/广西IPTV10.PNG" GROUPTITLE="广西",广西IPTV10,tvmao-#extinf:1tvgid="guangxiiptv10"tvgname="guangxiiptv10"tvglogo="https://epg.112114.xyz/logo/guangxiiptv10.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="广西IPTV11" TVGNAME="广西IPTV11" TVGLOGO="HTTPS://EPG.112114.XYZ/LOGO/广西IPTV11.PNG" GROUPTITLE="广西",广西IPTV11,tvmao-#extinf:1tvgid="guangxiiptv11"tvgname="guangxiiptv11"tvglogo="https://epg.112114.xyz/logo/guangxiiptv11.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="广西IPTV12" TVGNAME="广西IPTV12" TVGLOGO="HTTPS://EPG.112114.XYZ/LOGO/广西IPTV12.PNG" GROUPTITLE="广西",广西IPTV12,tvmao-#extinf:1tvgid="guangxiiptv12"tvgname="guangxiiptv12"tvglogo="https://epg.112114.xyz/logo/guangxiiptv12.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="广西IPTV100" TVGNAME="广西IPTV100" TVGLOGO="HTTPS://EPG.112114.XYZ/LOGO/广西IPTV100.PNG" GROUPTITLE="广西",广西IPTV100,tvmao-#extinf:1tvgid="guangxiiptv100"tvgname="guangxiiptv100"tvglogo="https://epg.112114.xyz/logo/guangxiiptv100.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="广西IPTV101" TVGNAME="广西IPTV101" TVGLOGO="HTTPS://EPG.112114.XYZ/LOGO/广西IPTV101.PNG" GROUPTITLE="广西",广西IPTV101,tvmao-#extinf:1tvgid="guangxiiptv101"tvgname="guangxiiptv101"tvglogo="https://epg.112114.xyz/logo/guangxiiptv101.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="广西IPTV102" TVGNAME="广西IPTV102" TVGLOGO="HTTPS://EPG.112114.XYZ/LOGO/广西IPTV102.PNG" GROUPTITLE="广西",广西IPTV102,tvmao-#extinf:1tvgid="guangxiiptv102"tvgname="guangxiiptv102"tvglogo="https://epg.112114.xyz/logo/guangxiiptv102.png"grouptitle="guangxi",,
+#EXTINF:1 TVGID="IPTV轮播" TVGNAME="IPTV轮播" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/IPTV轮播.PNG" GROUPTITLE="轮播",IPTV轮播#IPTV轮播#IPTV轮播,tvmao-#extinf:1tvgid="iptvlunbo"tvgname="iptvlunbo"tvglogo="https://live.lizanyang.top/tv/iptvlunbo.png"grouptitle="lunbo",,
+#EXTINF:1 TVGID="4K测试频道" TVGNAME="4K测试频道" TVGLOGO="HTTPS://LIVE.LIZANYANG.TOP/TV/4K测试频道.PNG" GROUPTITLE="测试",4K测试频道,tvmao-#extinf:1tvgid="4kceshipindao"tvgname="4kceshipindao"tvglogo="https://live.lizanyang.top/tv/4kceshipindao.png"grouptitle="ceshi",,
