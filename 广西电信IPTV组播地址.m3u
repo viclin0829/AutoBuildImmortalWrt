@@ -145,7 +145,7 @@ rtp://239.81.0.92:4056
 rtp://239.81.1.63:4056
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.lizanyang.top/tv/金鹰卡通.png" group-title="少儿",金鹰卡通
 rtp://239.81.0.148:4056
-#EXTINF:-1 tvg-id="KAKU少儿" tvg-name="KAKU少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="少儿",KAKU少儿
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="少儿",卡酷少儿
 rtp://239.81.1.64:4056
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://live.lizanyang.top/tv/哈哈炫动.png" group-title="少儿",哈哈炫动
 rtp://239.81.1.66:4056
@@ -249,4 +249,5 @@ rtp://239.81.0.205:4056
 rtp://239.81.0.251:4056
 #EXTINF:-1 tvg-id="4K测试频道" tvg-name="4K测试频道" tvg-logo="https://live.lizanyang.top/tv/4K测试频道.png" group-title="测试",4K测试频道
 rtp://239.81.0.123:4056
+
 
