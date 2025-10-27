@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.51zmt.top:8000/e.xml.gz"
+#EXTM3U x-tvg-url="https://epg.aptv.app/"
 
 
 #============= 4K专区 =============
@@ -247,6 +247,7 @@ http://192.168.100.1:5140/rtp/239.81.0.205:4056
 http://192.168.100.1:5140/rtp/239.81.0.251:4056
 #EXTINF:-1 tvg-id="4K测试频道" tvg-name="4K测试频道" tvg-logo="https://live.lizanyang.top/tv/4K测试频道.png" group-title="测试",4K测试频道
 http://192.168.100.1:5140/rtp/239.81.0.123:4056
+
 
 
 
