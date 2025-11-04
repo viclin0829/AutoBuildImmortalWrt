@@ -221,7 +221,7 @@ http://192.168.100.1:5140/rtp/239.81.0.195:4056
 http://192.168.100.1:5140/rtp/239.81.0.238:4056
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="电影娱乐",CHC动作电影
 http://192.168.100.1:5140/rtp/239.81.0.239:4056
-#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="电影娱乐",CHC高清电影
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.xyz/logo/CHC影迷电影.png" group-title="电影娱乐",CHC影迷电影
 http://192.168.100.1:5140/rtp/239.81.0.240:4056
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="电影娱乐",都市剧场
 http://192.168.100.1:5140/rtp/239.81.1.90:4056
@@ -271,3 +271,4 @@ http://192.168.100.1:5140/rtp/239.81.0.212:4056
 http://192.168.100.1:5140/rtp/239.81.0.213:4056
 #EXTINF:-1 tvg-id="新频道示例" tvg-name="新频道示例" tvg-logo="https://epg.112114.xyz/logo/新频道示例.png" group-title="其它",新频道示例
 http://192.168.100.1:5140/rtp/239.81.1.86:4056
+
