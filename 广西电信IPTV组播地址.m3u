@@ -213,7 +213,7 @@ http://192.168.100.1:5140/rtp/239.81.1.81:4056
 http://192.168.100.1:5140/rtp/239.81.0.153:4056
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.112114.xyz/logo/中国天气.png" group-title="纪录教育",中国天气
 http://192.168.100.1:5140/rtp/239.81.1.100:4056
-#EXTINF:-1 tvg-id="BRTV纪实" tvg-name="BRTV纪实" tvg-logo="https://epg.112114.xyz/logo/BRTV纪实.png" group-title="纪录教育",BRTV纪实
+#EXTINF:-1 tvg-id="BRTV纪实" tvg-name="BRTV纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实科教.png" group-title="纪录教育",BRTV纪实
 http://192.168.100.1:5140/rtp/239.81.0.195:4056
 
 =========== 电影 / 娱乐 / 电视剧 ===========
@@ -271,4 +271,5 @@ http://192.168.100.1:5140/rtp/239.81.0.212:4056
 http://192.168.100.1:5140/rtp/239.81.0.213:4056
 #EXTINF:-1 tvg-id="新频道示例" tvg-name="新频道示例" tvg-logo="https://epg.112114.xyz/logo/新频道示例.png" group-title="其它",新频道示例
 http://192.168.100.1:5140/rtp/239.81.1.86:4056
+
 
