@@ -11,7 +11,7 @@ http://192.168.100.1:7088/rtp/239.81.0.231:4056
 http://192.168.100.1:7088/rtp/239.81.0.96:4056
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视高清",CCTV-5体育
 http://192.168.100.1:7088/rtp/239.81.0.232:4056
-#EXTINF:-1 tvg-id="CCTV5PLUS" tvg-name="CCTV5PLUS" tvg-logo="https://epg.112114.xyz/logo/CCTV5PLUS.png" group-title="央视高清",CCTV-5+体育
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5PLUS" tvg-logo="https://epg.112114.xyz/logo/CCTV5PLUS.png" group-title="央视高清",CCTV-5+体育
 http://192.168.100.1:7088/rtp/239.81.0.101:4056
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视高清",CCTV-6电影
 http://192.168.100.1:7088/rtp/239.81.0.233:4056
