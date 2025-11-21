@@ -33,7 +33,7 @@ http://192.168.100.1:7088/rtp/239.81.0.206:4056
 http://192.168.100.1:7088/rtp/239.81.0.120:4056
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视高清",CCTV-15音乐
 http://192.168.100.1:7088/rtp/239.81.0.230:4056
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV164K.png" group-title="4K超清",CCTV-16奥林匹克4K
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV164K.png" group-title="央视高清",CCTV-16奥林匹克4K
 http://192.168.100.1:7088/rtp/239.81.0.144:4056
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视高清",CCTV-17农业农村
 http://192.168.100.1:7088/rtp/239.81.0.228:4056
@@ -271,6 +271,8 @@ http://192.168.100.1:7088/rtp/239.81.0.64:4056
 http://192.168.100.1:7088/rtp/239.81.0.197:4056
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="少儿",动漫秀场
 http://192.168.100.1:7088/rtp/239.81.1.82:4056
+#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://epg.112114.xyz/logo/新动漫.png" group-title="少儿",新动漫
+http://192.168.100.1:7088/rtp/239.81.0.235:4056
 
 #========== 体育频道 ==========
 #EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://epg.112114.xyz/logo/先锋乒羽.png" group-title="体育频道",先锋乒羽
@@ -283,14 +285,7 @@ http://192.168.100.1:7088/rtp/239.81.0.238:4056
 http://192.168.100.1:7088/rtp/239.81.0.239:4056
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.xyz/logo/CHC影迷电影.png" group-title="电影频道",CHC影迷电影
 http://192.168.100.1:7088/rtp/239.81.0.240:4056
-#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://epg.112114.xyz/logo/新动漫.png" group-title="电影频道",新动漫
-http://192.168.100.1:7088/rtp/239.81.0.235:4056
-#EXTINF:-1 tvg-id="爱电影" tvg-name="爱电影" tvg-logo="https://epg.112114.xyz/logo/爱电影.png" group-title="电影频道",爱电影
-http://192.168.100.1:7088/rtp/239.81.0.65:4056
-#EXTINF:-1 tvg-id="爱大剧" tvg-name="爱大剧" tvg-logo="https://epg.112114.xyz/logo/爱大剧.png" group-title="电影频道",爱大剧
-http://192.168.100.1:7088/rtp/239.81.0.67:4056
-#EXTINF:-1 tvg-id="爱综艺" tvg-name="爱综艺" tvg-logo="https://epg.112114.xyz/logo/爱综艺.png" group-title="电影频道",爱综艺
-http://192.168.100.1:7088/rtp/239.81.0.66:4056
+
 
 #========== 其他 ==========
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="其他",CGTN
