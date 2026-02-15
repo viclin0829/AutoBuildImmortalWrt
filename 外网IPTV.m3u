@@ -1,227 +1,227 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.2:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.2:4056"
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.3:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.3:4056"
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.4:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.4:4056"
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.5:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.5:4056"
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.6:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.6:4056"
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.7:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.7:4056"
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.8:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.8:4056"
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.9:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.9:4056"
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.10:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.10:4056"
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.11:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.11:4056"
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.12:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.12:4056"
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.13:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.13:4056"
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.14:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.14:4056"
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.15:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.15:4056"
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.16:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.16:4056"
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.17:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.17:4056"
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.18:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.18:4056"
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.19:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.19:4056"
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16-4K
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.80:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.80:4056"
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="地方",CCTV-4K
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.196:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.196:4056"
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.107:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.107:4056"
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.21:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.21:4056"
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.22:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.22:4056"
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.23:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.23:4056"
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.24:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.24:4056"
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.25:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.25:4056"
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.26:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.26:4056"
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.27:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.27:4056"
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.28:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.28:4056"
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.29:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.29:4056"
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.30:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.30:4056"
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.31:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.31:4056"
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.32:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.32:4056"
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.33:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.33:4056"
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.34:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.34:4056"
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.35:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.35:4056"
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.36:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.36:4056"
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.37:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.37:4056"
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.38:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.38:4056"
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.39:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.39:4056"
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.41:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.41:4056"
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.42:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.42:4056"
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.44:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.44:4056"
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.45:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.45:4056"
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.47:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.47:4056"
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.50:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.50:4056"
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",CETV1
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.60:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.60:4056"
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",CETV4
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.63:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.63:4056"
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",卡酷少儿
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.64:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.64:4056"
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="卫视",哈哈炫动
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.66:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.66:4056"
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.79:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.79:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动漫秀场
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.82:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.82:4056"
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.83:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.83:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",魅力足球
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.84:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.84:4056"
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.85:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.85:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",乐游
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.87:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.87:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",法治天地
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.88:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.88:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",金色学堂
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.89:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.89:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",都市剧场
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.90:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.90:4056"
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.91:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.91:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东方财经
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.93:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.93:4056"
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方",茶频道
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.95:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.95:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中国天气
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.100:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.1.100:4056"
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视4K-25
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.225:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.225:4056"
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视4K-50
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.226:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.226:4056"
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视4K
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.252:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.252:4056"
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视4K
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.254:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.254:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",影视/藤县新闻
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.1:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.1:4056"
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.91:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.91:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",华数影视
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.100:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.100:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱上4K
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.123:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.123:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广西视听商城
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.124:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.124:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南宁文旅生活
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.139:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.139:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南宁影视娱乐
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.140:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.140:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南宁公共
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.141:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.141:4056"
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.148:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.148:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百色综合
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.150:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.150:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",防城港新闻综合
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.151:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.151:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",精彩影视
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.152:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.152:4056"
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="地方",求索纪录
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.153:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.153:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",北海新闻综合
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.154:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.154:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",贺州综合
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.163:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.163:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",钦州综合
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.164:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.164:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BesTV
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.166:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.166:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",河池新闻综合
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.168:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.168:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",贵港新闻综合
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.172:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.172:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",来宾综合
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.173:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.173:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",桂林新闻综合
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.174:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.174:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",柳州新闻综合
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.175:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.175:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",梧州新闻综合
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.176:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.176:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",玉林新闻综合
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.177:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.177:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",影视/灵山新闻
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.189:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.189:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",影视/容县新闻
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.194:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.194:4056"
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京纪实科教
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.195:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.195:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",影视/三江新闻
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.197:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.197:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",电子竞技
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.201:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.201:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",电子竞技
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.202:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.202:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",电子竞技
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.203:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.203:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广西IPTV宣传片
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.208:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.208:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广西综艺旅游
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.214:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.214:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广西移动
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.216:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.216:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",影视/扶绥新闻
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.217:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.217:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",崇左综合
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.218:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.218:4056"
 #EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="上海",中国交通
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.219:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.219:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",桂林科教旅游
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.221:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.221:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",桂林公共频道
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.222:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.222:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",家有购物
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.224:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.224:4056"
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.238:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.238:4056"
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.239:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.239:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CHC影迷电影
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.240:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.240:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南宁新闻综合
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.241:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.241:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广西都市
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.247:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.247:4056"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广西新闻
-http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.248:4056"
+"http://mypc.lmf1219.dpdns.org:7088/udp/239.81.0.248:4056"
