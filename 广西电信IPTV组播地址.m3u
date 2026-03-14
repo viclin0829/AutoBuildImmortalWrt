@@ -1,5 +1,14 @@
 #EXTM3U url-tvg="https://epg.112114.xyz/pp.xml.gz"
 
+#========== 完整可播放频道 (130个) ==========
+# 来源: 广西电信IPTV组播地址.m3u
+# 测试时间: Sat Mar 14 23:22:06 CST 2026
+# 测试方式: 5线程模拟并发
+# 服务器: 192.168.100.1:5140 (udpxy)
+# 协议: rtp
+# 成功率: 94%
+
+
 #========== 央视高清 ==========
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视高清",CCTV-1综合
 http://192.168.100.1:5140/rtp/239.81.0.102:4056
@@ -115,8 +124,6 @@ http://192.168.100.1:5140/rtp/239.81.0.107:4056
 http://192.168.100.1:5140/rtp/239.81.0.1:4056
 #EXTINF:-1 tvg-id="广西影视" tvg-name="广西影视" tvg-logo="https://epg.112114.xyz/logo/广西影视.png" group-title="广西本地",广西影视
 http://192.168.100.1:5140/rtp/239.81.0.250:4056
-#EXTINF:-1 tvg-id="广西国际" tvg-name="广西国际" tvg-logo="https://epg.112114.xyz/logo/广西国际.png" group-title="广西本地",广西国际
-http://192.168.100.1:5140/rtp/239.81.0.8:4056
 #EXTINF:-1 tvg-id="广西新闻" tvg-name="广西新闻" tvg-logo="https://epg.112114.xyz/logo/广西新闻.png" group-title="广西本地",广西新闻
 http://192.168.100.1:5140/rtp/239.81.0.248:4056
 #EXTINF:-1 tvg-id="广西移动电视高清" tvg-name="广西移动电视高清" tvg-logo="https://epg.112114.xyz/logo/广西移动电视高清.png" group-title="广西本地",广西移动电视高清
@@ -189,9 +196,9 @@ http://192.168.100.1:5140/rtp/239.81.0.254:4056
 http://192.168.100.1:5140/rtp/239.81.0.78:4056
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视4K.png" group-title="4K超清",四川卫视4K
 http://192.168.100.1:5140/rtp/239.81.0.80:4056
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场4K.png" group-title="超清",欢笑剧场
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场4K.png" group-title="4K超清",欢笑剧场
 http://192.168.100.1:5140/rtp/239.81.1.92:4056
-#EXTINF:-1 tvg-id="4K测试频道" tvg-name="4K测试频道" tvg-logo="https://epg.112114.xyz/logo/4K测试频道.png" group-title="超清",4K测试频道
+#EXTINF:-1 tvg-id="4K测试频道" tvg-name="4K测试频道" tvg-logo="https://epg.112114.xyz/logo/4K测试频道.png" group-title="4K超清",4K测试频道
 http://192.168.100.1:5140/rtp/239.81.0.123:4056
 
 #========== 数字频道 ==========
@@ -209,9 +216,9 @@ http://192.168.100.1:5140/rtp/239.81.0.195:4056
 http://192.168.100.1:5140/rtp/239.81.0.63:4056
 #EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://epg.112114.xyz/logo/山东教育卫视.png" group-title="数字频道",山东教育卫视
 http://192.168.100.1:5140/rtp/239.81.0.93:4056
-#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="电影娱乐",都市剧场
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="数字频道",都市剧场
 http://192.168.100.1:5140/rtp/239.81.1.90:4056
-#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="电影娱乐",生活时尚
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="数字频道",生活时尚
 http://192.168.100.1:5140/rtp/239.81.1.85:4056
 
 #========== 广西IPTV ==========
@@ -231,22 +238,12 @@ http://192.168.100.1:5140/rtp/239.81.0.79:4056
 http://192.168.100.1:5140/rtp/239.81.0.253:4056
 #EXTINF:-1 tvg-id="广西IPTV8" tvg-name="广西IPTV8" tvg-logo="https://epg.112114.xyz/logo/广西IPTV101.png" group-title="广西IPTV",广西IPTV8
 http://192.168.100.1:5140/rtp/239.81.0.208:4056
-#EXTINF:-1 tvg-id="广西IPTV9" tvg-name="广西IPTV9" tvg-logo="https://epg.112114.xyz/logo/广西IPTV101.png" group-title="广西IPTV",广西IPTV9
-http://192.168.100.1:5140/rtp/239.81.0.209:4056
 #EXTINF:-1 tvg-id="广西IPTV10" tvg-name="广西IPTV10" tvg-logo="https://epg.112114.xyz/logo/广西IPTV101.png" group-title="广西IPTV",广西IPTV10
 http://192.168.100.1:5140/rtp/239.81.0.100:4056
 #EXTINF:-1 tvg-id="广西IPTV11" tvg-name="广西IPTV11" tvg-logo="https://epg.112114.xyz/logo/广西IPTV101.png" group-title="广西IPTV",广西IPTV11
 http://192.168.100.1:5140/rtp/239.81.0.166:4056
 #EXTINF:-1 tvg-id="广西IPTV12" tvg-name="广西IPTV12" tvg-logo="https://epg.112114.xyz/logo/广西IPTV101.png" group-title="广西IPTV",广西IPTV12
 http://192.168.100.1:5140/rtp/239.81.0.124:4056
-#EXTINF:-1 tvg-id="广西IPTV13" tvg-name="广西IPTV13" tvg-logo="https://epg.112114.xyz/logo/广西IPTV101.png" group-title="广西IPTV",广西IPTV13
-http://192.168.100.1:5140/rtp/239.81.0.125:4056
-#EXTINF:-1 tvg-id="广西IPTV15" tvg-name="广西IPTV15" tvg-logo="https://epg.112114.xyz/logo/广西IPTV101.png" group-title="广西IPTV",广西IPTV15
-http://192.168.100.1:5140/rtp/239.81.0.69:4056
-#EXTINF:-1 tvg-id="广西IPTV17" tvg-name="广西IPTV17" tvg-logo="https://epg.112114.xyz/logo/广西IPTV101.png" group-title="广西IPTV",广西IPTV17
-http://192.168.100.1:5140/rtp/239.81.0.146:4056
-#EXTINF:-1 tvg-id="广西IPTV18" tvg-name="广西IPTV18" tvg-logo="https://epg.112114.xyz/logo/广西IPTV101.png" group-title="广西IPTV",广西IPTV18
-http://192.168.100.1:5140/rtp/239.81.0.147:4056
 
 #========== 购物频道 ==========
 #EXTINF:-1 tvg-id="聚鲨环球精选" tvg-name="聚鲨环球精选" tvg-logo="https://epg.112114.xyz/logo/聚鲨环球精选.png" group-title="购物频道",聚鲨环球精选
@@ -257,10 +254,12 @@ http://192.168.100.1:5140/rtp/239.81.0.131:4056
 http://192.168.100.1:5140/rtp/239.81.0.132:4056
 #EXTINF:-1 tvg-id="家有购物" tvg-name="家有购物" tvg-logo="https://epg.112114.xyz/logo/家有购物.png" group-title="购物频道",家有购物
 http://192.168.100.1:5140/rtp/239.81.0.224:4056
-#EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://epg.112114.xyz/logo/家庭理财.png" group-title="购物",家庭理财
+
+#========== 理财 ==========
+#EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://epg.112114.xyz/logo/家庭理财.png" group-title="理财",家庭理财
 http://192.168.100.1:5140/rtp/239.81.1.71:4056
 
-#========== 少儿频道 ==========
+#========== 少儿 ==========
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="少儿",金鹰卡通
 http://192.168.100.1:5140/rtp/239.81.0.148:4056
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="少儿",卡酷少儿
@@ -274,10 +273,6 @@ http://192.168.100.1:5140/rtp/239.81.1.82:4056
 #EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://epg.112114.xyz/logo/新动漫.png" group-title="少儿",新动漫
 http://192.168.100.1:5140/rtp/239.81.0.235:4056
 
-#========== 体育频道 ==========
-#EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://epg.112114.xyz/logo/先锋乒羽.png" group-title="体育频道",先锋乒羽
-http://192.168.100.1:5140/rtp/239.81.0.236:4056
-
 #========== 电影频道 ==========
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
 http://192.168.100.1:5140/rtp/239.81.0.238:4056
@@ -285,7 +280,6 @@ http://192.168.100.1:5140/rtp/239.81.0.238:4056
 http://192.168.100.1:5140/rtp/239.81.0.239:4056
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.xyz/logo/CHC影迷电影.png" group-title="电影频道",CHC影迷电影
 http://192.168.100.1:5140/rtp/239.81.0.240:4056
-
 
 #========== 其他 ==========
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="其他",CGTN
@@ -296,13 +290,3 @@ http://192.168.100.1:5140/rtp/239.81.0.32:4056
 http://192.168.100.1:5140/rtp/239.81.0.242:4056
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" group-title="其他",厦门卫视
 http://192.168.100.1:5140/rtp/239.81.0.212:4056
-
-
-
-
-
-
-
-
-
-
