@@ -189,7 +189,7 @@ http://192.168.100.1:5140/rtp/239.81.0.78:4056
 http://192.168.100.1:5140/rtp/239.81.0.80:4056
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/欢笑剧场4K.png" group-title="4K超清",欢笑剧场
 http://192.168.100.1:5140/rtp/239.81.1.92:4056
-#EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/华数4K.png" group-title="4K超清",华数4K
+#EXTINF:-1 tvg-id="华数TV影视" tvg-name="华数TV影视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/华数4K.png" group-title="4K超清",华数TV影视
 http://192.168.100.1:5140/rtp/239.81.0.123:4056
 
 #========== 数字频道 ==========
