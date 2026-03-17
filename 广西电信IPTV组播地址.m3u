@@ -11,7 +11,7 @@ http://192.168.100.1:5140/rtp/239.81.0.231:4056
 http://192.168.100.1:5140/rtp/239.81.0.96:4056
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5.png" group-title="央视高清",CCTV-5体育
 http://192.168.100.1:5140/rtp/239.81.0.232:4056
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5PLUS.png" group-title="央视高清",CCTV-5+体育
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5+.png" group-title="央视高清",CCTV-5+体育
 http://192.168.100.1:5140/rtp/239.81.0.101:4056
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV6.png" group-title="央视高清",CCTV-6电影
 http://192.168.100.1:5140/rtp/239.81.0.233:4056
@@ -131,9 +131,9 @@ http://192.168.100.1:5140/rtp/239.81.0.140:4056
 http://192.168.100.1:5140/rtp/239.81.0.141:4056
 #EXTINF:-1 tvg-id="桂林新闻综合" tvg-name="桂林新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/桂林新闻综合.png" group-title="广西本地",桂林新闻综合
 http://192.168.100.1:5140/rtp/239.81.0.174:4056
-#EXTINF:-1 tvg-id="桂林科教旅游" tvg-name="桂林科教旅游" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/桂林科教旅游.png" group-title="广西本地",桂林科教旅游
+#EXTINF:-1 tvg-id="桂林科教旅游" tvg-name="桂林科教旅游" tvg-logo="https://xiaotan.860775.xyz/广西桂林科教旅游.png" group-title="广西本地",桂林科教旅游
 http://192.168.100.1:5140/rtp/239.81.0.221:4056
-#EXTINF:-1 tvg-id="桂林公共频道" tvg-name="桂林公共频道" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/桂林公共频道.png" group-title="广西本地",桂林公共频道
+#EXTINF:-1 tvg-id="桂林公共频道" tvg-name="桂林公共频道" tvg-logo="https://xiaotan.860775.xyz/广西桂林公共频道.png" group-title="广西本地",桂林公共频道
 http://192.168.100.1:5140/rtp/239.81.0.222:4056
 #EXTINF:-1 tvg-id="柳州新闻综合" tvg-name="柳州新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/柳州新闻综合.png" group-title="广西本地",柳州新闻综合
 http://192.168.100.1:5140/rtp/239.81.0.175:4056
