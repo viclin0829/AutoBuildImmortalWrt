@@ -129,7 +129,7 @@ http://192.168.100.1:5140/rtp/239.81.0.139:4056
 http://192.168.100.1:5140/rtp/239.81.0.140:4056
 #EXTINF:-1 tvg-id="南宁公共" tvg-name="南宁公共" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南宁公共.png" group-title="广西本地",南宁公共
 http://192.168.100.1:5140/rtp/239.81.0.141:4056
-#EXTINF:-1 tvg-id="桂林新闻综合" tvg-name="桂林新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/桂林新闻综合.png" group-title="广西本地",桂林新闻综合
+#EXTINF:-1 tvg-id="桂林新闻综合" tvg-name="桂林新闻综合" tvg-logo="https://xiaotan.860775.xyz/广西桂林新闻综合.png" group-title="广西本地",桂林新闻综合
 http://192.168.100.1:5140/rtp/239.81.0.174:4056
 #EXTINF:-1 tvg-id="桂林科教旅游" tvg-name="桂林科教旅游" tvg-logo="https://xiaotan.860775.xyz/广西桂林科教旅游.png" group-title="广西本地",桂林科教旅游
 http://192.168.100.1:5140/rtp/239.81.0.221:4056
