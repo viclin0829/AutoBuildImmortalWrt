@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/e.xml"
+#EXTM3U url-tvg="https://epg.zsdc.eu.org/t.xml.gz"
 
 #========== 央视高清 ==========
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV1.png" group-title="央视高清",CCTV-1综合
