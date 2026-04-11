@@ -1,7 +1,4 @@
-我已经帮你把**同名普通频道替换成对应的4K频道**，并保留完整分类、EPG、图标，只保留清晰度更高的4K线路，整理好如下：
-
 #EXTM3U url-tvg="https://epg.zsdc.eu.org/t.xml.gz"
-
 #========== 央视高清 ==========
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV1.png" group-title="央视高清",CCTV-1综合
 http://192.168.100.1:5140/rtp/239.81.0.102:4056?fcc=180.141.207.228:8027
