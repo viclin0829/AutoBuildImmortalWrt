@@ -65,7 +65,7 @@ http://192.168.100.1:5140/rtp/239.81.0.105:4056?fcc=180.141.207.228:8027
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/河北卫视.png" group-title="卫视高清",河北卫视
 http://192.168.100.1:5140/rtp/239.81.0.94:4056?fcc=180.141.207.228:8027
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/贵州卫视.png" group-title="卫视高清",贵州卫视
-http://192.168.100.1:5140/rtp/239.81.0.131:4056?fcc=180.141.207.228:8027
+http://192.168.100.1:5140/rtp/239.81.0.95:4056?fcc=180.141.207.228:8027
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/辽宁卫视.png" group-title="卫视高清",辽宁卫视
 http://192.168.100.1:5140/rtp/239.81.0.210:4056?fcc=180.141.207.228:8027
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/安徽卫视.png" group-title="卫视高清",安徽卫视
@@ -126,14 +126,10 @@ http://192.168.100.1:5140/rtp/239.81.0.241:4056?fcc=180.141.207.228:8027
 http://192.168.100.1:5140/rtp/239.81.0.139:4056?fcc=180.141.207.228:8027
 #EXTINF:-1 tvg-id="南宁影视娱乐" tvg-name="南宁影视娱乐" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南宁影视娱乐.png" group-title="广西本地",南宁影视娱乐
 http://192.168.100.1:5140/rtp/239.81.0.140:4056?fcc=180.141.207.228:8027
-#EXTINF:-1 tvg-id="南宁公共" tvg-name="南宁公共" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南宁公共.png" group-title="广西本地",南宁公共
-http://192.168.100.1:5140/rtp/239.81.0.141:4056?fcc=180.141.207.228:8027
 #EXTINF:-1 tvg-id="桂林新闻综合" tvg-name="桂林新闻综合" tvg-logo="https://xiaotan.860775.xyz/广西桂林新闻综合.png" group-title="广西本地",桂林新闻综合
 http://192.168.100.1:5140/rtp/239.81.0.174:4056?fcc=180.141.207.228:8027
 #EXTINF:-1 tvg-id="桂林科教旅游" tvg-name="桂林科教旅游" tvg-logo="https://xiaotan.860775.xyz/广西桂林科教旅游.png" group-title="广西本地",桂林科教旅游
 http://192.168.100.1:5140/rtp/239.81.0.221:4056?fcc=180.141.207.228:8027
-#EXTINF:-1 tvg-id="桂林公共频道" tvg-name="桂林公共频道" tvg-logo="https://xiaotan.860775.xyz/广西桂林公共频道.png" group-title="广西本地",桂林公共频道
-http://192.168.100.1:5140/rtp/239.81.0.222:4056?fcc=180.141.207.228:8027
 #EXTINF:-1 tvg-id="柳州新闻综合" tvg-name="柳州新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/柳州新闻综合.png" group-title="广西本地",柳州新闻综合
 http://192.168.100.1:5140/rtp/239.81.0.175:4056?fcc=180.141.207.228:8027
 #EXTINF:-1 tvg-id="玉林新闻综合" tvg-name="玉林新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/玉林新闻综合.png" group-title="广西本地",玉林新闻综合
@@ -212,8 +208,6 @@ http://192.168.100.1:5140/rtp/239.81.0.208:4056?fcc=180.141.207.228:8027
 http://192.168.100.1:5140/rtp/239.81.0.100:4056?fcc=180.141.207.228:8027
 #EXTINF:-1 tvg-id="广西IPTV11" tvg-name="广西IPTV11" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/TV.png" group-title="广西IPTV",广西IPTV11
 http://192.168.100.1:5140/rtp/239.81.0.166:4056?fcc=180.141.207.228:8027
-#EXTINF:-1 tvg-id="广西IPTV12" tvg-name="广西IPTV12" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/TV.png" group-title="广西IPTV",广西IPTV12
-http://192.168.100.1:5140/rtp/239.81.0.124:4056?fcc=180.141.207.228:8027
 
 #========== 购物频道 ==========
 #EXTINF:-1 tvg-id="聚鲨环球精选" tvg-name="聚鲨环球精选" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/聚鲨环球精选.png" group-title="购物频道",聚鲨环球精选
@@ -222,7 +216,7 @@ http://192.168.100.1:5140/rtp/239.81.0.98:4056?fcc=180.141.207.228:8027
 http://192.168.100.1:5140/rtp/239.81.0.131:4056?fcc=180.141.207.228:8027
 #EXTINF:-1 tvg-id="优购物" tvg-name="优购物" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/优购物.png" group-title="购物频道",优购物
 http://192.168.100.1:5140/rtp/239.81.0.132:4056?fcc=180.141.207.228:8027
-#EXTINF:-1 tvg-id="家有购物" tvg-name="家有购物" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/家有购物.png" group-title="购物频道",家有购物
+#EXTINF:-1 tvg-id="家有购物" tvg-name="家有购物" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/家有购物.png" group-title="购物频道",快乐购物
 http://192.168.100.1:5140/rtp/239.81.0.224:4056?fcc=180.141.207.228:8027
 
 #========== 理财 ==========
@@ -240,8 +234,6 @@ http://192.168.100.1:5140/rtp/239.81.0.64:4056?fcc=180.141.207.228:8027
 http://192.168.100.1:5140/rtp/239.81.0.197:4056?fcc=180.141.207.228:8027
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/动漫秀场.png" group-title="少儿",动漫秀场
 http://192.168.100.1:5140/rtp/239.81.1.82:4056?fcc=180.141.207.228:8027
-#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/新动漫.png" group-title="少儿",新动漫
-http://192.168.100.1:5140/rtp/239.81.0.235:4056?fcc=180.141.207.228:8027
 
 #========== 电影频道 ==========
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
@@ -260,5 +252,3 @@ http://192.168.100.1:5140/rtp/239.81.0.28:4056?fcc=180.141.207.228:8027
 http://192.168.100.1:5140/rtp/239.81.0.32:4056?fcc=180.141.207.228:8027
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/三沙卫视.png" group-title="其他",三沙卫视
 http://192.168.100.1:5140/rtp/239.81.0.242:4056?fcc=180.141.207.228:8027
-#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/厦门卫视.png" group-title="其他",厦门卫视
-http://192.168.100.1:5140/rtp/239.81.0.212:4056?fcc=180.141.207.228:8027
